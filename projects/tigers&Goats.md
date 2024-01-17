@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Automatic Strategy Inference for Tigers and Goats"
+title: "Automatic Strategy Inference for Games"
 date: 2023-11-30
 labels:
   - Neural Networks
