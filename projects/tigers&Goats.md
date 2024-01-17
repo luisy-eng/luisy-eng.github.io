@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/tiger-512.png
 title: "Automatic Strategy Inference for Games"
 date: 2023-11-30
 labels:
