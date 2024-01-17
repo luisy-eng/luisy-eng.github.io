@@ -4,6 +4,7 @@ type: project
 image: img/tiger-512.png
 title: "Automatic Strategy Inference for Games"
 date: 2023-11-30
+published: true
 labels:
   - Neural Networks
   - Machine Learning
