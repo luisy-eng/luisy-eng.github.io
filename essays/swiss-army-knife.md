@@ -6,7 +6,9 @@ title: "Swiss Army Knife"
 date: 2024-01-17
 published: True
 labels:
-  - Engineering
+  - Software Engineering
+  - Java Script
+  - Programming
 ---
 
 # JavaScript Unveiled: Versatility and Responsibility
