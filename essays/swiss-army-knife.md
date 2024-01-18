@@ -35,6 +35,10 @@ Amidst the features, one feature stands out to me: JavaScript classes. The abili
 
 The ease of use in JavaScript made me question memory allocation and numeric interpretation. As I contemplate a scenario involving tremendous integer values, the language's interpretation of IEEE 754 floating-point values raises concern that there is some ambiguity surrounding the allocation of memory for such operations. Applying what I have learned in computer engineering and architecture makes me wonder what workaround Java Script implements when I need 64 bits to represent a whole number since it lacks integer values.
 
+## Athletic Software Engineering
+
+It is hard for me to give an opinion on athletic software engineering until I experience it thoroughly and compare my skills after the class. I can probably summarize it as, scary. But that is probably because my grade is dependent on it. I can only speak from the perspective of algorithms and Computer Engineering. For me, most problems I have encountered regarding programming take more time writing on a piece of paper, drawing diagrams, and conversing with other colleagues before I even begin to code. These have been the experiences that have taught me the most about problem-solving in programming, but I am excited to experience something new, although, it's scary. 
+
 ## Conclusion
 
 My JavaScript experience so far is exciting. Its resemblance to C++ and C and its Swiss Army Knife-like versatility leaves me wondering how many amazing things I can implement. Although navigating through its features, challenges, and trade-offs, I find myself at the crossroads of productivity and complexity, which left me repeating myself during the freecodecamp: "Oh, that's a cool feature!"
