@@ -11,8 +11,6 @@ labels:
   - Programming
 ---
 
-# JavaScript Unveiled: Versatility and Responsibility
-
 ## Introduction
 
 In my experience with programming languages from C, C++, and Python, JavaScript has emerged as dynamic and new, and strangely, it left me with a sense of familiarity and uniqueness. As I navigated through its syntax and operations, the parallels to C++ and C became evident and aided me in picking up a quick understanding of the language I didn't pick up even when I started C++ after coding in C for four years.
