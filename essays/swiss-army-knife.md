@@ -43,4 +43,4 @@ It is hard for me to give an opinion on athletic software engineering until I ex
 
 My JavaScript experience so far is exciting. Its resemblance to C++ and C and its Swiss Army Knife-like versatility leaves me wondering how many amazing things I can implement. Although navigating through its features, challenges, and trade-offs, I find myself at the crossroads of productivity and complexity, which left me repeating myself during the freecodecamp: "Oh, that's a cool feature!"
 
-
+Used Grammarly for grammatical errors.
