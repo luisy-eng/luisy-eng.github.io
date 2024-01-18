@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Under the Hood"
+title: "Swiss Army Knife"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: True
