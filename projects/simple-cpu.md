@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/alerkiv--9jmFkN-_U4-unsplash.png
 title: "Simple CPU Design"
-date: 2023
+date: 2023-10-05
 published: True
 labels:
   - Computer Engineering
