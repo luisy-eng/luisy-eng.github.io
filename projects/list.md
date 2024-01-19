@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/markus-spiske-iar-afB0QQw-unsplash.png
 title: "Abstract Data Type: List"
 date: 2020
 published: True
