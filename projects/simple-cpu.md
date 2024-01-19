@@ -26,13 +26,13 @@ This Verilog project showcases the design of a simple computer module, likely re
    - Utilizes a data memory array (`DMem`) for storing and retrieving data.
    - Supports memory write operations based on control signals.
 
-<img width="200px" src = "../img/data-memory.png" class="img-thumbnail" img>
+<img width="300px" src = "../img/data-memory.png" class="img-thumbnail" img>
 
 3. **ALU (Arithmetic Logic Unit):**
    - Performs arithmetic and logic operations based on control signals.
    - Outputs results to `aluResult` and evaluates a zero condition (`Zero`).
 
-<img width="200px" src = "../img/alu.png" class="img-thumbnail" img>
+<img width="300px" src = "../img/alu.png" class="img-thumbnail" img>
 
 4. **Program Counter Logic:**
    - Manages the program counter (`pc`) based on control signals.
@@ -44,7 +44,7 @@ This Verilog project showcases the design of a simple computer module, likely re
    - Implements a `cpuControl` structure to manage control signals for various components.
    - Decodes instruction opcodes to determine control signals.
 
-<img width="200px" src = "../img/controller.png" class="img-thumbnail" img>
+<img width="300px" src = "../img/controller.png" class="img-thumbnail" img>
 
 #### Instruction Set:
 The project supports a set of instructions, including additions, subtractions, branches, loads, and stores. Each instruction is associated with specific control signals that guide the processor's behavior.
