@@ -20,7 +20,7 @@ This Verilog project showcases the design of a simple computer module, likely re
    - Maintains a set of registers (`regFile`) for data storage.
    - Utilizes read and write operations based on control signals.
 
-<img width="200px" src = "../img/register-file.png" class="img-thumbnail" img>
+<img width="300px" src = "../img/register-file.png" class="img-thumbnail" img>
 
 2. **Data Memory:**
    - Utilizes a data memory array (`DMem`) for storing and retrieving data.
@@ -38,7 +38,7 @@ This Verilog project showcases the design of a simple computer module, likely re
    - Manages the program counter (`pc`) based on control signals.
    - Implements branching and program counter updates according to instruction types.
   
-<img width="200px" src = "../img/pc.png" class="img-thumbnail" img>
+<img width="300px" src = "../img/pc.png" class="img-thumbnail" img>
 
 5. **Controller:**
    - Implements a `cpuControl` structure to manage control signals for various components.
