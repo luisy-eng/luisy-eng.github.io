@@ -18,4 +18,6 @@ The foundation is a crafted `node` struct representing each element in our linke
 
 We dynamically allocate memory for new nodes through the `add` function, gracefully handling situations where memory allocation may fail.
 
+<img width="200px" src = "../img/add.png" class="img-thumbnail" img>
+
 We traverse the list, print its contents, and ultimately free up the allocated memory in the `free_list` function. This project serves as a practical exploration of linked lists and a robust exercise in memory management within the confines of C. 
