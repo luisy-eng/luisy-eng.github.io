@@ -20,4 +20,8 @@ We dynamically allocate memory for new nodes through the `add` function, gracefu
 
 <img width="300px" src = "../img/add.png" class="img-thumbnail" img>
 
-We traverse the list, print its contents, and ultimately free up the allocated memory in the `free_list` function. This project serves as a practical exploration of linked lists and a robust exercise in memory management within the confines of C. 
+We traverse the list, print its contents, and ultimately free up the allocated memory in the `free_list` function.
+
+<img width="300px" src = "../img/Print-free.png" class="img-thumbnail" img>
+
+This project serves as a practical exploration of linked lists and a robust exercise in memory management within the confines of C. 
