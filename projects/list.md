@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: "Abstract Data Type: List"
-date: 2014
+date: 2020
 published: True
 labels:
   - C
