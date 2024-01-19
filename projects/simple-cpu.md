@@ -16,31 +16,31 @@ This Verilog project showcases the design of a simple computer module, likely re
 
 #### Key Components:
 
-1. **Register File:**
+**Register File:**
    - Maintains a set of registers (`regFile`) for data storage.
    - Utilizes read and write operations based on control signals.
 
 <img width="300px" src = "../img/register-file.png" class="img-thumbnail" img>
 
-2. **Data Memory:**
+**Data Memory:**
    - Utilizes a data memory array (`DMem`) for storing and retrieving data.
    - Supports memory write operations based on control signals.
 
 <img width="300px" src = "../img/data-memory.png" class="img-thumbnail" img>
 
-3. **ALU (Arithmetic Logic Unit):**
+**ALU (Arithmetic Logic Unit):**
    - Performs arithmetic and logic operations based on control signals.
    - Outputs results to `aluResult` and evaluates a zero condition (`Zero`).
 
 <img width="300px" src = "../img/alu.png" class="img-thumbnail" img>
 
-4. **Program Counter Logic:**
+**Program Counter Logic:**
    - Manages the program counter (`pc`) based on control signals.
    - Implements branching and program counter updates according to instruction types.
   
 <img width="300px" src = "../img/pc.png" class="img-thumbnail" img>
 
-5. **Controller:**
+**Controller:**
    - Implements a `cpuControl` structure to manage control signals for various components.
    - Decodes instruction opcodes to determine control signals.
 
