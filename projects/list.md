@@ -14,7 +14,7 @@ In this coding project, I delve into abstract data types using C, focusing on li
 
 The foundation is a crafted `node` struct representing each element in our linked list.
 
-<img width="200px" src = "img/struct.png" class="img-thumbnail" img>
+<img width="200px" src = ".../img/struct.png" class="img-thumbnail" img>
 
 We dynamically allocate memory for new nodes through the `add` function, gracefully handling situations where memory allocation may fail.
 
