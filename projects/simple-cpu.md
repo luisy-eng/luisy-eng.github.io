@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/alerkiv--9jmFkN-_U4-unsplash.png
 title: "Simple CPU Design"
 date: 2023
 published: True
