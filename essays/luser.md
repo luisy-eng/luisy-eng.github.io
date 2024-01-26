@@ -30,10 +30,8 @@ The user's attempt to resolve the problem is vaguely outlined, with generic atte
 
 **Smart Question Analysis:**
 
-"The three dotted items is a <ul> tag. Each time a li item is clicked, the app navigates to a route using the routerLink appending a query string (/bands, /bands?active=false and /bands?active=true).
-The part of the web page starting at Bands (belong to the component called band-list) is the content the router-outlet displays according to the route. The grid below is loaded according to the query param 'active'. Then, each time a li item is clicked, the grid reloads.
-Also, the Refresh data button reloads the grid.
-I'm trying to implement, using reactive programming, the following logic:
+"The three dotted items is a <ul> tag. Each time a li item is clicked, the app navigates to a route using the routerLink appending a query string (/bands, /bands?active=false and /bands?active=true). The part of the web page starting at Bands (belong to the component called band-list) is the content the router-outlet displays according to the route. The grid below is loaded according to the query param 'active'. Then, each time a li item is clicked, the grid reloads.
+Also, the Refresh data button reloads the grid. I'm trying to implement, using reactive programming, the following logic:
 At initialization, the band-list component..."
 
 Reference: 
