@@ -6,8 +6,9 @@ title: "Don't be a "Luser""
 date: 2024-01-25
 published: true
 labels:
-  - Programming
-  - Smart Questions
+  - Questions
+  - Answers
+  - StackOverflow
 ---
 
 **Introduction:**
