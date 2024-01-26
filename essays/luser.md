@@ -17,7 +17,7 @@ In software development, effective communication through well-formulated questio
 
 **Not-So-Smart Question Analysis:**
 
-" I am new to Django and I am doing a Django tutorial project to create a portfolio. When I first started doing the project, my Django project was able to run the browser correctly and display "Hello World". However, after adding new lines of code to my project, I still only see "Hello World" which is my first project run. How can I fix this issue on VSC to show the result of my new line of code? I'm not sure what the issue is.
+"I am new to Django and I am doing a Django tutorial project to create a portfolio. When I first started doing the project, my Django project was able to run the browser correctly and display "Hello World". However, after adding new lines of code to my project, I still only see "Hello World" which is my first project run. How can I fix this issue on VSC to show the result of my new line of code? I'm not sure what the issue is.
 
 I tried running "python manage.py runserver" or "python manage.py migrate" but, it still only shows "Hello World". With the code I added from the tutorial, I was supposed to see a display of "first project", "second project", and "third project". " 
 
