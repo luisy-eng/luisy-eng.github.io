@@ -52,8 +52,8 @@ In conclusion, asking questions smartly is a skill for any software engineer and
 
 **References:**
   1. Raymond, E. S. (n.d.). How to Ask Questions the Smart Way. 
-  2. gab jeangab jean (n.d.). Django tutorial project. Stack Overflow. [Link https://stackoverflow.com/questions/77883027/django-tutorial-project]
-  3. MarlonchoskyMarlonchosky (1969, December 22). Is this angular component implemented in a reactive way? Stack Overflow. [Link: https://stackoverflow.com/questions/77822864/is-this-angular-component-implemented-in-a-reactive-way]
+  1. gab jeangab jean (n.d.). Django tutorial project. Stack Overflow. [Link https://stackoverflow.com/questions/77883027/django-tutorial-project]
+  1. MarlonchoskyMarlonchosky (1969, December 22). Is this angular component implemented in a reactive way? Stack Overflow. [Link: https://stackoverflow.com/questions/77822864/is-this-angular-component-implemented-in-a-reactive-way]
 
 
 
