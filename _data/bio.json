@@ -4,9 +4,9 @@
     "label": "Student",
     "picture": "https://github.com/luisy-eng.png",
     "email": "luisy@hawaii.edu",
-    "phone": "787-421-6568",
+    "phone": "xxx-xxx-xxxx",
     "website": "https://luisy-eng.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Engineering Department at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Engineering Department at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "luisy-eng", "url": "http://github.com/luisy-eng" },
@@ -24,19 +24,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "MIPS Assembly", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "NeoVim", "Unity"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2024)",
+      "area": "Computer Engineering (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2021-09-01",
+      "startDate": "2021-01-09",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,70 +44,48 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "United States Coast Guard",
+      "position": "Marine Enforcement",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2009-08-01",
+      "endDate": "2021-12-13",
+      "summary": "Marine Safety, Security and Law Enforcement",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Managed a team as a Boarding Officer enforcing maritime laws around the Pacific.",
+        "Main Interpreter for Spanish to English."
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Habitat for Humanity",
+      "website": "https://www.habitat.org/",
+      "position": "Volunteer",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Assisted at strengthening homes for elderly.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Cleaned up and assisted in tiling roofs.",
       ]
     },
     {
-      "organization": "",
+      "organization": "IEEE UH Manoa",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Associate Board Chair",
+      "startDate": "2024-01-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Associate Board Chair, IEEE Student Branch, 2024-Present",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Coast Guard Achievement Medal",
+      "date": "2013",
+      "awarder": "US Coast Guard",
+      "summary": "A medal awarded by the Coast Guard for Achieving a safe transfer and rescue of over 1,500 Cubans stranded in open waters."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
