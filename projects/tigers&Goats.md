@@ -12,7 +12,7 @@ labels:
 summary: "Developing a player Neural Network for the game Tigers and Goats using Tensorflow."
 ---
 
-## Abstract
+## Intro
 
 This project aims to develop advanced algorithms capable of autonomously mastering the intricate strategies of the traditional Tigers and Goats (Bagh-Chal) board game. Leveraging state-of-the-art machine learning techniques, neural networks, and Large Language Models (LLMs), our system will emulate human-like learning by closely observing and analyzing gameplay dynamics. Python, with a focus on TensorFlow, serves as our primary programming language, emphasizing these tools' robust capabilities in machine learning applications.
 
