@@ -11,7 +11,7 @@ labels:
   - System Verilog
 summary: "A simple computer design using System Verilog."
 ---
-<img src="img/alerkiv--9jmFkN-_U4-unsplash.png" alt="Project Image" width="300" height="300">
+<img src="..img/alerkiv--9jmFkN-_U4-unsplash.png" alt="Project Image" width="300" height="300">
 
 ### Simple Processor Design in Verilog
 
