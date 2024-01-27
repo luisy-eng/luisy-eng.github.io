@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img src="img/your-new-image.png" alt="Project Image" width="300" height="200">
+image: img/Cpu.png
 title: "Simple CPU Design"
 date: 2023-10-05
 published: True
