@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img src="../img/alerkiv--9jmFkN-_U4-unsplash.png" alt="Project Image" width="300" height="300">
+image: <img src="img/your-new-image.png" alt="Project Image" width="300" height="200">
 title: "Simple CPU Design"
 date: 2023-10-05
 published: True
