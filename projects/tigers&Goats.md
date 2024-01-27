@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: i![Tiger and Goats](img/tiger-512.png){:height="300px" width="300px"}
+image: img/tiger-512.png {:height="300px" width="300px"}
 title: "Automatic Strategy Inference for Games"
 date: 2023-11-30
 published: true
