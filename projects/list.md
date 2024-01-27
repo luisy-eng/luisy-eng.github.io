@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/markus-spiske-iar-afB0QQw-unsplash.png
+image: img/cyber.png
 title: "Abstract Data Type: List"
 date: 2022-01-03
 published: True
