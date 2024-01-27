@@ -9,8 +9,10 @@ labels:
   - Computer Engineering
   - CPU
   - System Verilog
-summary: "A simple computer design using System Verilo."
+summary: "A simple computer design using System Verilog."
 ---
+<img src="img/alerkiv--9jmFkN-_U4-unsplash.png" alt="Project Image" width="300" height="300">
+
 ### Simple Processor Design in Verilog
 
 This Verilog project showcases the design of a simple computer module, likely representing a basic processor. The module includes a Register File, Data Memory, Arithmetic Logic Unit (ALU), and PC (Program Counter) Logic. The project is structured to execute instructions based on the provided program instructions.
