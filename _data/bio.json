@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "luisy-eng", "url": "http://github.com/luisy-eng" },
-      { "network": "linkedin", "username": "Luis Hernandez", "url": "www.linkedin.com/in/luisyhernandez" }
-      
+      { "network": "linkedin", "username": "Luis Hernandez", "url": "https://www.linkedin.com/in/luisyhernandez" }
     ]
   },
   "interests": [
@@ -19,7 +18,6 @@
     { "name": "Game Development" },
     { "name": "Machine Learning" },
     { "name": "Web Development" }
-    
   ],
   "skills": [
     {
@@ -38,8 +36,7 @@
       "studyType": "B.S.",
       "startDate": "2021-01-09",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -54,7 +51,8 @@
         "Managed a team as a Boarding Officer enforcing maritime laws around the Pacific.",
         "Main Interpreter for Spanish to English."
       ]
-    },
+    }
+  ],
   "volunteer": [
     {
       "organization": "Habitat for Humanity",
@@ -73,7 +71,6 @@
       "position": "Associate Board Chair",
       "startDate": "2024-01-01",
       "endDate": "Present",
-      "summary": "",
       "highlights": [
         "Associate Board Chair, IEEE Student Branch, 2024-Present",
       ]
@@ -85,7 +82,7 @@
       "date": "2013",
       "awarder": "US Coast Guard",
       "summary": "A medal awarded by the Coast Guard for Achieving a safe transfer and rescue of over 1,500 Cubans stranded in open waters."
-    },
+    }
   ],
   "references": [
     {
