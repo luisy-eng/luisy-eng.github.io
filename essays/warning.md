@@ -13,7 +13,7 @@ labels:
 
 # Warning! Cannot Resolve File
 
-<img width="100px" class="rounded float-start pe-4" src="">
+<img width="100px" class="rounded float-start pe-4" src="..img/inx.png">
 
 ## Introduction:
 Coding standards are often underestimated, with many considering them as mere nitpicking about formatting details. However, they are much more than that. They form the backbone of software engineering practices, contributing significantly to code quality, maintainability, and even the learning process for programming languages. In this essay, I will explain the importance of coding standards, reflecting on their role in software development and sharing insights based on personal experiences.
