@@ -13,7 +13,7 @@ labels:
 
 # Warning! Cannot Resolve File
 
-<img width="100px" class="rounded float-start pe-4" src="../img/inx.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/inx.png">
 
 
 ## Introduction:
