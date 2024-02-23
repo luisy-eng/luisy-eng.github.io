@@ -1,4 +1,15 @@
-
+---
+layout: essay
+type: essay
+title: "A complex Shortcut"
+# All dates must be YYYY-MM-DD format!
+date: 2024-02-22
+published: True
+labels:
+  - Sofware Engineering
+  - HTML
+  - Bootstrap 5
+---
 
 **Introduction**
 
@@ -29,4 +40,4 @@ Regarding ease of use, Bootstrap 5 is often considered more beginner-friendly, w
 In conclusion, UI frameworks like Bootstrap 5 offer a compelling value proposition for web developers, providing a wealth of pre-designed components and styles that can streamline the design process and ensure consistency across different devices and browsers. While they may present challenges in terms of learning curve and customization, their benefits in terms of development efficiency and user experience make them a valuable tool in the modern web development toolkit.
 
 
-Used ChatGPT for Markdown and Grammarly for grammer
+Used ChatGPT for Markdown and Grammarly for grammar
