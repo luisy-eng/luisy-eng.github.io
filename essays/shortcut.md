@@ -10,7 +10,7 @@ labels:
   - HTML
   - Bootstrap 5
 ---
-<img src="../img/BOOTSTRA5.png">
+<img src="../img/BOOTSTRA5.png" width="300px">
 
 **Introduction**
 
