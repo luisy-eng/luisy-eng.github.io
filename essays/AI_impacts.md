@@ -10,7 +10,7 @@ labels:
   - ChatGPT
   - Programming
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/ChatGPT.png">
+<img height= "500px" width="500px" class="rounded float-start pe-4" src="../img/ChatGPT.png">
 **I. Introduction**
 
 Artificial Intelligence (AI) is revolutionizing education, particularly in software engineering. The unique insights and support offered by AI tools and methodologies reshape the learning process, enhancing our understanding and application of software engineering principles. In ICS 314, I will share my experiences with AI, illustrating its impact on my learning journey.
