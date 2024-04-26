@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Impact of AI on Software Engineering Education: A Journey Through ICS 314"
+title: "Impact of AI: AI Journey Through ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-26
 published: true
@@ -10,7 +10,7 @@ labels:
   - ChatGPT
   - Programming
 ---
-
+<img width="200px" class="rounded float-start pe-4" src="../img/ChatGPT.png">
 **I. Introduction**
 
 Artificial Intelligence (AI) is revolutionizing education, particularly in software engineering. The unique insights and support offered by AI tools and methodologies reshape the learning process, enhancing our understanding and application of software engineering principles. In ICS 314, I will share my experiences with AI, illustrating its impact on my learning journey.
@@ -71,3 +71,5 @@ The future of AI in software engineering education is promising. With the contin
 
 In conclusion, AI has significantly impacted my learning journey in ICS 314. It has enriched my understanding of software engineering concepts, enhanced my problem-solving skills, and provided valuable insights and support throughout the course. As AI continues to evolve, its role in software engineering education will only become more prominent, offering new opportunities for innovation and advancement.
 
+
+Note: Used AI for formatting markdown and spell check.
