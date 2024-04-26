@@ -10,7 +10,7 @@ labels:
   - ChatGPT
   - Programming
 ---
-<img height= "400px" width="1000px" class="rounded float-start pe-4" src="../img/ChatGPT.png">
+<img height= "400px" width="700px" class="rounded float-start pe-4" src="../img/ChatGPT.png">
 
 **I. Introduction**
 
