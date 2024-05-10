@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/clubconnectlogo.png
+image: img/clublogo.png
 title: "Manoa Club Connect"
 date: 2024
 published: true
@@ -14,7 +14,7 @@ summary: "An application that acts as a portal for clubs"
 ---
 
 <p align="center">
-<img class="img-fluid" src="../img/LandingPageMcc.png">
+<img class="img-fluid" src="../img/ManoClubConnect.png">
 </p>
 
 ## Introduction
@@ -24,7 +24,7 @@ Collaborative software development projects often face challenges with task mana
 Manoa Club Connect, a web application developed using a stack of Meteor, React, Bootstrap, and MiniMongo, was our collaborative software development project. The application allows users to sign up, create profiles, and join clubs based on their interests. Club organizers can edit their information and post announcements. The team, consisting of Byron, Christian, Eisen, Josh, and myself, adopted an agile approach to development.
 
 ## Implementation of IDPM
-IDPM was implemented using GitHub projects, which allowed the team to create issues for each task or feature. Each issue was assigned to a team member, who worked on it in a separate branch. This approach helped organize the work, track progress, and resolve conflicts. For instance, specific example of how IDPM improved task management.
+IDPM was implemented using GitHub projects, which allowed the team to create issues for each task or feature. Each issue was assigned to a team member, who worked on it in a separate branch. This approach helped organize the work, track progress, and resolve conflicts. For instance, a specific example of how IDPM improved task management.
 
 ## Individual Contributions
 My contributions to the project included:
