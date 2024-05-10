@@ -27,4 +27,6 @@ In conclusion, ICS 314 has been a transformative experience, providing me with a
 
 
 
+
+
 Note: Used ChatGPT for format and spell-checking.
