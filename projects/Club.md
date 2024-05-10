@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/clublogo.png
 title: "Manoa Club Connect"
-date: 2024
+date: 2024-05-09
 published: true
 labels:
   - JavaScript
