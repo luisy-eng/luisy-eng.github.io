@@ -1,4 +1,13 @@
-# A Journey into Software Engineering: Reflections on ICS 314
+---
+layout: essay
+type: essay
+title: "Hardware to Software"
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-09
+published: True
+labels:
+  - Sofware Engineering
+---
 
 ## Introduction
 
@@ -15,3 +24,7 @@ Another key takeaway from the course was the importance of coding standards and 
 ## Conclusion
 
 In conclusion, ICS 314 has been a transformative experience, providing me with a solid foundation in software engineering principles and practices. The course not only equipped me with technical skills but also fostered a deeper appreciation for the collaborative nature of software development. The concepts and tools introduced in the course, such as Git and ESLint, are not limited to web application development but are universally applicable to a wide range of software projects. This realization has filled me with excitement and confidence to apply these learnings in future coursework and professional endeavors, ready to navigate the complexities of software engineering with agility and precision.
+
+
+
+Note: Used ChatGPT for format and spell-checking.
