@@ -9,6 +9,8 @@ labels:
   - Sofware Engineering
 ---
 
+<img height= "400px" width="700px" class="rounded float-start pe-4" src="../img/take-time-to-reflect.jpg">
+
 ## Introduction
 
 The transition from focusing on circuitry, hardware, and algorithms to software engineering was a transformative shift in my academic journey. ICS 314 played a pivotal role in this transformation, providing a comprehensive introduction to this new domain. It equipped me with practical skills and insights that have significantly broadened my understanding of software development processes. This essay reflects on the key learnings from the course, particularly in collaborative programming, version control, and coding standards, and their implications beyond the classroom.
