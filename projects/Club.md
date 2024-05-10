@@ -1,3 +1,22 @@
+---
+layout: project
+type: project
+image: img/clubconnectlogo.png
+title: "Manoa Club Connect"
+date: 2024
+published: true
+labels:
+  - JavaScript
+  - MongoDB
+  - GitHub
+  - Meteor
+summary: "An application that acts as a portal for clubs"
+---
+
+<p align="center">
+<img class="img-fluid" src="../img/LandingPageMcc.png">
+</p>
+
 ## Introduction
 Collaborative software development projects often face challenges with task management, communication, and tracking progress. To address these challenges, the team decided to implement IDPM, a project management approach that focuses on using issues or tasks as the central unit of work. IDPM, which stands for Issue Driven Project Management, was chosen for its simplicity, flexibility, and compatibility with the team's workflow.
 
