@@ -19,6 +19,8 @@ summary: "An application that acts as a portal for clubs"
 
 ## Introduction
 Collaborative software development projects often face challenges with task management, communication, and tracking progress. To address these challenges, the team decided to implement IDPM, a project management approach that focuses on using issues or tasks as the central unit of work. IDPM, which stands for Issue Driven Project Management, was chosen for its simplicity, flexibility, and compatibility with the team's workflow.
+<br> <br>
+The link to the organization page can be found [here](https://code-autonomy.github.io/)
 
 ## Background
 Manoa Club Connect, a web application developed using a stack of Meteor, React, Bootstrap, and MiniMongo, was our collaborative software development project. The application allows users to sign up, create profiles, and join clubs based on their interests. Club organizers can edit their information and post announcements. The team, consisting of Byron, Christian, Eisen, Josh, and myself, adopted an agile approach to development.
