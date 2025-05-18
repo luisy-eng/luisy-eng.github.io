@@ -36,7 +36,7 @@
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Programming & Markup language",
       "keywords": [
         "C",
         "C++",
@@ -100,7 +100,7 @@
     {
       "name": "Miscellaneous",
       "keywords": [
-        "Dance Instruction (Salsa, Bachata, Ballroom, Ballet)",
+        "Dance Instruction (Salsa, Bachata)",
         "Movement Analysis",
         "Performance Choreography",
         "Public Speaking",
@@ -112,12 +112,40 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2025)",
-      "studyType": "B.S.",
-      "startDate": "2021-01-09",
-      "endDate": "Present",
-      "courses": []
+      "institution": "University of Hawaii at Manoa",
+      "degree": "Bachelor of Science in Electrical and Computer Engineering",
+      "location": "Honolulu, HI",
+      "graduationDate": "May 2025",
+      "gpa": "3.33",
+      "details": [
+        "Relevant Coursework: Digital Logic, Microcontrollers, Signal Processing, Computer Architecture, Embedded Systems, Data Structures, Machine Learning",
+        "GameDev Club Coding Officer (Sep 2024 - May 2025)"
+      ]
+    },
+    {
+      "institution": "Kapiolani Community College",
+      "degree": "Associate in Science - Natural Science, Engineering",
+      "location": "Honolulu, HI",
+      "graduationDate": "May 2024",
+      "details": [
+        "Focus: Physics, Calculus, Computer Programming, Circuit Analysis"
+      ]
+    },
+    {
+      "institution": "United States Coast Guard",
+      "degree": "Military Training and Certifications",
+      "location": "United States",
+      "details": [
+        "Maritime Law Enforcement Specialist 'A' School",
+        "Radiation Detection Level 1 and 2",
+        "Boarding Officer School",
+        "WCPFC Fisheries Enforcement Course",
+        "Spanish-to-English Interpreter Qualification",
+        "Sexual Harassment and Assault Prevention Training",
+        "Operational Security Training",
+        "First Responder Emergency Prevention",
+        "CPR and Red Cross Training"
+      ]
     }
   ],
   "work": [
