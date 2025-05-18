@@ -113,9 +113,11 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa",
-      "degree": "Bachelor of Science in Electrical and Computer Engineering",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Bachelor of Science",
       "location": "Honolulu, HI",
-      "graduationDate": "May 2025",
+      "startDate": "2021-01",
+      "endDate": "2025-05",
       "gpa": "3.33",
       "details": [
         "Relevant Coursework: Digital Logic, Microcontrollers, Signal Processing, Computer Architecture, Embedded Systems, Data Structures, Machine Learning",
@@ -124,18 +126,22 @@
     },
     {
       "institution": "Kapiolani Community College",
-      "degree": "Associate in Science - Natural Science, Engineering",
+      "area": "Natural Science, Engineering",
+      "studyType": "Associate in Science",
       "location": "Honolulu, HI",
-      "graduationDate": "May 2024",
+      "startDate": "2018-01",
+      "endDate": "2024-05",
       "details": [
         "Focus: Physics, Calculus, Computer Programming, Circuit Analysis"
       ]
     },
     {
       "institution": "United States Coast Guard",
-      "degree": "Military Training and Certifications",
+      "area": "Military Training and Certifications",
+      "studyType": "Certificate",
       "location": "United States",
-      "graduationDate": "2021",
+      "startDate": "2009-01",
+      "endDate": "2021-01",
       "details": [
         "Maritime Law Enforcement Specialist 'A' School",
         "Radiation Detection Level 1 and 2",
