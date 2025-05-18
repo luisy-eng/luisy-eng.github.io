@@ -1,32 +1,113 @@
 {
   "basics": {
     "name": "Luis Y. Hernandez",
-    "label": "Student",
+    "label": "",
     "picture": "https://github.com/luisy-eng.png",
     "email": "luisy@hawaii.edu",
     "phone": "xxx-xxx-xxxx",
     "website": "https://luisy-eng.github.io",
-    "summary": "B.S. in Computer & Electrical Engineering in University of Hawaii at Manoa.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I hold a B.S. in Computer & Electrical Engineering from University of Hawaii at Manoa. Driven by a passion for innovation in software engineering, game development, and machine learning. My interests spans web applications, digital logic, embedded systems, and game AI.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "luisy-eng", "url": "http://github.com/luisy-eng" },
-      { "network": "linkedin", "username": "Luis Hernandez", "url": "https://www.linkedin.com/in/luisyhernandez" }
+      {
+        "network": "github",
+        "username": "luisy-eng",
+        "url": "http://github.com/luisy-eng"
+      },
+      {
+        "network": "linkedin",
+        "username": "Luis Hernandez",
+        "url": "https://www.linkedin.com/in/luisyhernandez"
+      }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
+    { "name": "Digital Logic & Embedded Systems" },
     { "name": "Game Development" },
     { "name": "Machine Learning" },
     { "name": "Web Development" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript", "MIPS Assembly", "Python" ]
+      "name": "Programming Languages",
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "C#",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bash",
+        "MATLAB",
+        "SystemVerilog"
+      ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "NeoVim", "Unity"]
+      "name": "Software Development and Frameworks",
+      "keywords": [
+        "Unity",
+        "Git",
+        "GitHub",
+        "LaTeX",
+        "Markdown",
+        "Visual Studio",
+        "EDAPlayground",
+        "Vivado"
+      ]
+    },
+    {
+      "name": "Operating Systems and Tools",
+      "keywords": ["macOS", "Windows", "FPGA (Vivado)"]
+    },
+    {
+      "name": "Game Development",
+      "keywords": [
+        "Unity",
+        "C#",
+        "Game Design",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Digital Logic and Embedded Systems",
+      "keywords": [
+        "Verilog",
+        "VHDL",
+        "Digital Logic",
+        "FPGA Design",
+        "Hardware Simulation",
+        "Circuit Design"
+      ]
+    },
+    {
+      "name": "Media and Content Creation",
+      "keywords": [
+        "Microsoft Office",
+        "Google Suite",
+        "Adobe Acrobat",
+        "Video Editing (Adobe After Effects)"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "keywords": [
+        "Dance Instruction (Salsa, Bachata, Ballroom, Ballet)",
+        "Movement Analysis",
+        "Performance Choreography",
+        "Public Speaking",
+        "Training",
+        "Team Leadership",
+        "Cross-Cultural Communication"
+      ]
     }
   ],
   "education": [
@@ -61,9 +142,7 @@
       "startDate": "2013-01-01",
       "endDate": "2015-01-01",
       "summary": "Assisted at strengthening homes for elderly.",
-      "highlights": [
-        "Cleaned up and assisted in tiling roofs.",
-      ]
+      "highlights": ["Cleaned up and assisted in tiling roofs."]
     },
     {
       "organization": "IEEE UH Manoa",
@@ -71,9 +150,7 @@
       "position": "Associate Board Chair",
       "startDate": "2024-01-01",
       "endDate": "Present",
-      "highlights": [
-        "Associate Board Chair, IEEE Student Branch, 2024-Present",
-      ]
+      "highlights": ["Associate Board Chair, IEEE Student Branch, 2024-Present"]
     }
   ],
   "awards": [
