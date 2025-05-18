@@ -1,21 +1,27 @@
 ---
 layout: essay
 type: essay
-title: "Swiss Army Knife"
+title: "Dance in Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: True
 labels:
-  - Software Engineering
-  - Java Script
-  - Programming
+  - Dance
+  - Engineering
 ---
 
 ## Introduction
 
-In my experience with programming languages from C, C++, and Python, JavaScript has emerged as dynamic and new, and strangely, it left me with a sense of familiarity and uniqueness. As I navigated through its syntax and operations, the parallels to C++ and C became evident and aided me in picking up a quick understanding of the language I didn't pick up even when I started C++ after coding in C for four years.
+Take a second and imagine an engineer...
 
-JavaScript's similarity with C++ and C is unmistakable, providing a remarkably close environment. The operations and syntax are close to those of its predecessors, raising questions about this resemblance's advantages and potential pitfalls. While a familiar structure can ease the learning curve, it also beckons contemplation on the adaptability of JavaScript to diverse coding styles.
+Let me guess you probably thought of a smart person who spends more time in a computer or solving math equations than outside touching grass. Probably a little bit nerdy and sometimes hard to understand and commuinicate with.
+
+Your not really wrong, engineers have their own terminologies and lingo they learned and often their humor is surrounded by their career.
+Its so bad they make us take speech classes and do a ton of writting so that we learn the emphasis of communicating with others outside of the field.
+But how effective is it really to learn Speaking skills from a single semester? Or how well can we really say we work as a team when we only do 1 project and often one person tries to get all the work done by themselfs and barely communicates? Can school really foster the concept of engeneers working as a team with people of different backgrounds and fields cohesively?
+Short answer: NO just absolutely no!
+Let me explain, while in school you see all kinds of engineers and often some extremely talented and smart students, but horrible to work with. No communication or planning, they want to do everything alone, lack social skills and overall make it a dreadful experience.
+If my word isnt enough you should see how some of them behave at a career fair in school. It's so bad that the meetings before hand for preparation for career fair all the employers say the same thing, "We dont just want someone smart, we need someone who can communicate and work with others." Want to know what one of the engineers at that meeting responded to that, "What if we are really smart that we can do it alone." Seriously this is really the mentality of some of the engineering students.
 
 ## A Swiss Army Knife: Versatility and Functionality
 
@@ -23,7 +29,7 @@ As I learn more about JavaScript, a metaphor takes shape: a Swiss Army Knife. Th
 
 The flexibility and functionality come at a cost: a demand for responsibility from the programmer. In my preference for standardized coding, I enjoy languages that can perform a single task well; this is not the case for me in Java Script. This attribute introduces challenges, particularly in avoiding bugs arising from variable initialization or comparison operations that can lead to highly annoying bugs.
 
-I found JavaScript rich in features with each code module. Returning diverse data types and manipulating constant arrays exemplify its ease of use. The ability to initialize var type variables within a function as a global variable adds to the language's functionality. Yet, each feature poses a potential pitfall if not wielded with caution. Significantly, the scope of variables. This poses a challenge for the programmer while using  JavaScript. Bugs can lurk beneath seemingly inconspicuous lines of code. The ease with which JavaScript can convert and apply operations on different data types introduces flexibility and a demand for a meticulous approach to coding.
+I found JavaScript rich in features with each code module. Returning diverse data types and manipulating constant arrays exemplify its ease of use. The ability to initialize var type variables within a function as a global variable adds to the language's functionality. Yet, each feature poses a potential pitfall if not wielded with caution. Significantly, the scope of variables. This poses a challenge for the programmer while using JavaScript. Bugs can lurk beneath seemingly inconspicuous lines of code. The ease with which JavaScript can convert and apply operations on different data types introduces flexibility and a demand for a meticulous approach to coding.
 
 ## Favorite Feature: JavaScript Classes
 
@@ -35,7 +41,7 @@ The ease of use in JavaScript made me question memory allocation and numeric int
 
 ## Athletic Software Engineering
 
-It is hard for me to give an opinion on athletic software engineering until I experience it thoroughly and compare my skills after the class. I can probably summarize it as, scary. But that is probably because my grade is dependent on it. I can only speak from the perspective of algorithms and Computer Engineering. For me, most problems I have encountered regarding programming take more time writing on a piece of paper, drawing diagrams, and conversing with other colleagues before I even begin to code. These have been the experiences that have taught me the most about problem-solving in programming, but I am excited to experience something new, although, it's scary. 
+It is hard for me to give an opinion on athletic software engineering until I experience it thoroughly and compare my skills after the class. I can probably summarize it as, scary. But that is probably because my grade is dependent on it. I can only speak from the perspective of algorithms and Computer Engineering. For me, most problems I have encountered regarding programming take more time writing on a piece of paper, drawing diagrams, and conversing with other colleagues before I even begin to code. These have been the experiences that have taught me the most about problem-solving in programming, but I am excited to experience something new, although, it's scary.
 
 ## Conclusion
 

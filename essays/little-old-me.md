@@ -30,9 +30,9 @@ Transferring to UH Manoa was both exciting and terrifying. My first semester fel
 
 ### **Embracing Engineering as an Art**
 
-In Digital Architecture, I had a similar experience. The class didn’t teach Vivado or Verilog practices; it just gave us the requirements, and we had to figure it out ourselves. We struggled as a team to make lights blink on an FPGA board, but through trial, error, and collaboration, we made it work. This experience taught me that engineering isn't just technical—it's creative problem-solving. Working in groups, drawing out solutions on a whiteboard, and explaining concepts to each other became my new rhythm.
+In Digital Architecture, I had a similar experience. The class didn’t teach Vivado or Verilog practices; it just gave us the requirements, and we had to figure it out ourselves. We struggled as a team to make lights blink on an FPGA board, but through trial, error, and collaboration, we made it work. This experience taught me that engineering isn't just technical—it's creative problem-solving. Working in groups, drawing out solutions on a whiteboard, and explaining concepts to each other.
 
-My background in dance helped more than I expected. Clear communication, breaking down complex ideas, and encouraging teamwork were skills I carried from teaching dance to my new technical field. I learned that even in technical presentations, the goal isn’t to sound smart; it’s to make ideas accessible. My approach was to simplify concepts so that even those with the least experience could follow. Clarity over complexity became my guiding principle.
+My background in dance helped more than I expected. Clear communication, breaking down complex ideas, and encouraging teamwork were skills I carried from teaching dance to my new technical field. I learned that even in technical presentations, the goal isn’t to sound smart; it’s to make ideas accessible. My approach was to simplify concepts so that even those with the least experience could follow. Clarity over complexity became my principle.
 
 ### **Game Development: Crafting Worlds**
 
