@@ -12,11 +12,15 @@ labels:
 
 ## Introduction
 
-Take a second and imagine an engineer...
+What is the ideal engineer? Someone who is self-motivated, creative, flexible, innovative, and above all, a great communicator who can work well with others. Because in reality, nothing in engineering gets done alone.
+
+But how do we foster teamwork and communication in a field where studying alone until 4 a.m. is the norm? Where weekends are spent grinding through 40-hour homework assignments while friends are out enjoying life, and where the final result is often wrong despite all that effort? I found an unlikely fix to this problem, but more on that later.
+
+Take a second and imagine an engineering student...
 
 Let me guess—you probably thought of a smart person who spends more time at a computer or solving math equations than outside touching grass. Probably a little bit nerdy and sometimes hard to understand and communicate with.
 
-You're not really wrong. Engineers have their own terminologies and lingo they've picked up over the years, and often their humor revolves around their career. It's so bad that they make us take speech classes and do a ton of writing just so we learn the importance of communicating with others outside our field.
+You're not really wrong. Engineering students have their own terminologies and lingo they've picked up over the years in college, and often their humor revolves around their field and the trauma from class. It's so bad that they make us take speech classes and do a ton of writing just so we learn the importance of communicating with others outside our field.
 
 But how effective is it, really, to learn speaking skills from a single semester? Or how well can we truly say we work as a team when we only do one project together, and often one person tries to get all the work done themselves, barely communicating with the rest of the group? Can school really foster the concept of engineers working as a cohesive team with people from different backgrounds and fields?
 
@@ -31,6 +35,16 @@ Want to know what one of the engineers at that meeting responded to that?
 _"What if we're so smart that we can do it alone?"_
 
 Seriously, this is really the mentality of some engineering students.
+
+Something 90% of the engineers in my classes hated was group projects and presentations. The idea of having to work with others and communicate was simply not desirable for most students. It doesn’t help that some genuinely struggle with social skills.
+
+I could probably tell a hundred stories of group project nightmares, from a member disappearing for five weeks, only to show up at the last moment with the excuse that his car broke down. When we asked why he didn't contact us or answer his phone, he just shrugged and said he forgot.
+
+Or the time someone promised to complete a critical part of the project, disappeared for weeks, and finally sent us something completely useless at the last minute, simply saying, _"I didn't have time."_
+
+Then there are the worst ones—the ones who refuse to communicate at all. You try to pick up your share, but they shut you down with, _"I did it all. Can you just write the report? I hate writing..."_
+
+These skills are difficult to teach in a normal educational setting, but I found an unlikely solution to this problem—partner dance.
 
 ## A Swiss Army Knife: Versatility and Functionality
 
