@@ -113,36 +113,46 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa",
+      "url": "https://manoa.hawaii.edu/",
       "area": "Electrical and Computer Engineering",
       "studyType": "Bachelor of Science",
-      "location": "Honolulu, HI",
-      "startDate": "2021-01",
-      "endDate": "2025-05",
-      "gpa": "3.33",
-      "details": [
-        "Relevant Coursework: Digital Logic, Microcontrollers, Signal Processing, Computer Architecture, Embedded Systems, Data Structures, Machine Learning",
-        "GameDev Club Coding Officer (Sep 2024 - May 2025)"
+      "startDate": "2021-01-01",
+      "endDate": "2025-05-01",
+      "score": "3.33",
+      "courses": [
+        "Digital Logic",
+        "Microcontrollers",
+        "Signal Processing",
+        "Computer Architecture",
+        "Embedded Systems",
+        "Data Structures",
+        "Machine Learning"
       ]
     },
     {
       "institution": "Kapiolani Community College",
+      "url": "https://www.kapiolani.hawaii.edu/",
       "area": "Natural Science, Engineering",
       "studyType": "Associate in Science",
-      "location": "Honolulu, HI",
-      "startDate": "2018-01",
-      "endDate": "2024-05",
-      "details": [
-        "Focus: Physics, Calculus, Computer Programming, Circuit Analysis"
+      "startDate": "2018-01-01",
+      "endDate": "2024-05-01",
+      "score": "",
+      "courses": [
+        "Physics",
+        "Calculus",
+        "Computer Programming",
+        "Circuit Analysis"
       ]
     },
     {
       "institution": "United States Coast Guard",
+      "url": "https://www.uscg.mil/",
       "area": "Military Training and Certifications",
-      "studyType": "Certificate",
-      "location": "United States",
-      "startDate": "2009-01",
-      "endDate": "2021-01",
-      "details": [
+      "studyType": "Certification",
+      "startDate": "2009-01-01",
+      "endDate": "2021-01-01",
+      "score": "",
+      "courses": [
         "Maritime Law Enforcement Specialist 'A' School",
         "Radiation Detection Level 1 and 2",
         "Boarding Officer School",
