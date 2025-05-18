@@ -14,14 +14,23 @@ labels:
 
 Take a second and imagine an engineer...
 
-Let me guess you probably thought of a smart person who spends more time in a computer or solving math equations than outside touching grass. Probably a little bit nerdy and sometimes hard to understand and commuinicate with.
+Let me guess—you probably thought of a smart person who spends more time at a computer or solving math equations than outside touching grass. Probably a little bit nerdy and sometimes hard to understand and communicate with.
 
-Your not really wrong, engineers have their own terminologies and lingo they learned and often their humor is surrounded by their career.
-Its so bad they make us take speech classes and do a ton of writting so that we learn the emphasis of communicating with others outside of the field.
-But how effective is it really to learn Speaking skills from a single semester? Or how well can we really say we work as a team when we only do 1 project and often one person tries to get all the work done by themselfs and barely communicates? Can school really foster the concept of engeneers working as a team with people of different backgrounds and fields cohesively?
-Short answer: NO just absolutely no!
-Let me explain, while in school you see all kinds of engineers and often some extremely talented and smart students, but horrible to work with. No communication or planning, they want to do everything alone, lack social skills and overall make it a dreadful experience.
-If my word isnt enough you should see how some of them behave at a career fair in school. It's so bad that the meetings before hand for preparation for career fair all the employers say the same thing, "We dont just want someone smart, we need someone who can communicate and work with others." Want to know what one of the engineers at that meeting responded to that, "What if we are really smart that we can do it alone." Seriously this is really the mentality of some of the engineering students.
+You're not really wrong. Engineers have their own terminologies and lingo they've picked up over the years, and often their humor revolves around their career. It's so bad that they make us take speech classes and do a ton of writing just so we learn the importance of communicating with others outside our field.
+
+But how effective is it, really, to learn speaking skills from a single semester? Or how well can we truly say we work as a team when we only do one project together, and often one person tries to get all the work done themselves, barely communicating with the rest of the group? Can school really foster the concept of engineers working as a cohesive team with people from different backgrounds and fields?
+
+**Short answer:** No. Just absolutely no.
+
+Let me explain. While in school, you meet all kinds of engineers—some of them extremely talented and smart—but terrible to work with. No communication, no planning, they want to do everything alone, lack social skills, and overall make it a dreadful experience.
+
+If my word isn't enough, you should see how some of them behave at a career fair. It's so bad that during the preparation meetings before the career fair, all the employers say the same thing:  
+_"We don't just want someone smart, we need someone who can communicate and work with others."_
+
+Want to know what one of the engineers at that meeting responded to that?  
+_"What if we're so smart that we can do it alone?"_
+
+Seriously, this is really the mentality of some engineering students.
 
 ## A Swiss Army Knife: Versatility and Functionality
 
