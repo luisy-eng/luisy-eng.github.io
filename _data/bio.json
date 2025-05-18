@@ -151,14 +151,32 @@
   "work": [
     {
       "company": "United States Coast Guard",
-      "position": "Marine Enforcement",
+      "position": "Marine Enforcement Specialist (ME3), Full-time",
       "website": "",
-      "startDate": "2009-08-01",
-      "endDate": "2021-12-13",
-      "summary": "Marine Safety, Security and Law Enforcement",
+      "startDate": "2009-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Marine Safety, Security, and Law Enforcement",
       "highlights": [
-        "Managed a team as a Boarding Officer enforcing maritime laws around the Pacific.",
-        "Main Interpreter for Spanish to English."
+        "Conducted maritime law enforcement, search and rescue, and security operations as a Boarding Officer and Small Boat Crew Member.",
+        "Managed and maintained law enforcement and damage control equipment, including 40 Cal Bow Gunner systems and radiation detection gear.",
+        "Served as the main Spanish-English interpreter during Operation Martillo in Colombia, facilitating joint training with Colombian Coast Guard.",
+        "Qualified in radiation detection (Levels 1 and 2), small boat operations, and tactical boarding procedures.",
+        "Oversaw equipment procurement, inventory management, and personnel training for unit readiness.",
+        "Participated in international law enforcement missions, including WCPFC boardings in Palau and Guam."
+      ]
+    },
+    {
+      "company": "Linda Melodia Dance Company and Infinity Movement Studio",
+      "position": "Dance Instructor, Part-time",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "2020-12-31",
+      "summary": "Dance Instruction and Performance Coaching",
+      "highlights": [
+        "Taught Salsa and Bachata to students of all skill levels, focusing on technique, social dancing, musicality, and performance.",
+        "Developed and implemented structured lesson plans to improve student movement quality and stage presence.",
+        "Led group classes and private lessons, providing personalized feedback to accelerate student progress.",
+        "Choreographed routines for showcases, competitions, and social events."
       ]
     }
   ],
