@@ -58,15 +58,27 @@ So much can go wrong, and it often leads to arguments, hurt feelings, or even pa
 
 But this is also where the real lessons begin. Dance teaches responsibility, accountability, and communication. It forces you to stick to deadlines, set realistic goals, and communicate openly with your partner.
 
-### **Teaching Dance: A Different Kind of Communication**
+#### **Teaching Dance: A Different Kind of Communication**
 
 Developing physical skills in dance is honestly the easy part. The harder part is learning to communicate those skills to others. Teaching dance is a completely different skill set. While you might be a great dancer, a dance teacher is no different than a person delivering a technical presentation to a large group.
 
 You can’t just stand in front of the class, put up a PowerPoint, and talk. In dance, you have to watch your students, explain the task, demonstrate the “algorithm,” have them recreate it, give feedback, and then repeat. Sometimes this means watching 30+ students dance simultaneously and making mental notes in real-time. It also means adapting your feedback to each student, because unlike in a classroom where textbooks and formulas are available, dance instruction demands creativity. You have to create analogies, draw on life experiences, and even get to know your students on a personal level to understand how they process feedback.
 
-### **Connecting the Dots to Engineering**
+#### **Connecting the Dots to Engineering**
 
 Where does engineering come into play? These are all skills that an engineer absolutely needs—management, clear communication, teamwork, and adaptability when faced with unexpected challenges.
+
+These are lessons you can learn through dance. Unlike a public speaking class or a writing-intensive course, where a grade holds the overall value, the implications in dance are more personal. Mess up enough, and your dance partners will simply refuse to work with you.
+
+I once had a student who was a PhD candidate in Mechanical Engineering. Surprisingly, his lack of social skills eventually made it so that all his partners rejected dancing with him after just two months. Some of the issues he struggled with included:
+
+- **Perfectionism:** Expecting his partners to be flawless while refusing to accept his own mistakes.
+- **Micromanagement:** Constantly correcting his partners, often without considering their comfort or confidence.
+- **Tone Issues:** Demanding that his partners change their tone while he continued making fundamental errors.
+- **Arrogance:** Assuming he was always right, even when his technique clearly needed improvement.
+- **Poor Emotional Control:** Yelling at partners, reacting badly to criticism, and generally making practices unpleasant.
+
+Eventually, no one wanted to dance with him. It didn’t help that he was stubborn and felt like changing wasn’t necessary. This is a harsh but valuable lesson—if you don’t develop social skills and learn to work well with others, you’ll find yourself isolated, both in dance and in your career. It’s better to learn this lesson in a dance studio than at a job.
 
 Personally, I love using physics and engineering principles when thinking about dance. For example, partner dance in ballroom Latin often simulates an inelastic collision, where two bodies connect and move as one, transferring momentum while maintaining stability. This is a fun way to think about dance and creates great teaching analogies when explaining concepts to engineers.
 
