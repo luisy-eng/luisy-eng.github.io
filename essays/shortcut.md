@@ -4,12 +4,13 @@ type: essay
 title: "A complex Shortcut"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
-published: True
+published: False
 labels:
   - Sofware Engineering
   - HTML
   - Bootstrap 5
 ---
+
 <img src="../img/BOOTSTRA5.png" width="300px">
 
 **Introduction**
@@ -39,6 +40,5 @@ Bootstrap 5 and Semantic UI are popular UI frameworks offering similar functiona
 Regarding ease of use, Bootstrap 5 is often considered more beginner-friendly, with comprehensive documentation and a large community for support. Semantic UI, while powerful, can be more challenging to learn due to its unconventional naming conventions and less extensive documentation.
 
 In conclusion, UI frameworks like Bootstrap 5 offer a compelling value proposition for web developers, providing a wealth of pre-designed components and styles that can streamline the design process and ensure consistency across different devices and browsers. While they may present challenges in terms of learning curve and customization, their benefits in terms of development efficiency and user experience make them a valuable tool in the modern web development toolkit.
-
 
 Used ChatGPT for Markdown and Grammarly for grammar

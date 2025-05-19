@@ -4,17 +4,16 @@ type: essay
 title: "Don't be a 'Luser'"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
-published: true
+published: false
 labels:
   - Questions
   - Answers
   - StackOverflow
 ---
 
-
 ## Introduction:
 
-In software development, effective communication through well-formulated questions is a fundamental skill. Eric Raymond's essay, *How to Ask Questions the Smart Way*, guides us poor "lusers," as he states, in methods to ask smart questions. This technical essay will focus on the nuances of two distinct questions posted on StackOverflow, one exemplifying the smart way and the other falling short, and the type of answers or "no answers" they may receive.
+In software development, effective communication through well-formulated questions is a fundamental skill. Eric Raymond's essay, _How to Ask Questions the Smart Way_, guides us poor "lusers," as he states, in methods to ask smart questions. This technical essay will focus on the nuances of two distinct questions posted on StackOverflow, one exemplifying the smart way and the other falling short, and the type of answers or "no answers" they may receive.
 
 ## Not-So-Smart Question Analysis:
 
@@ -51,6 +50,7 @@ The not-so-smart question highlights the importance of clarity, specificity, and
 In conclusion, asking questions smartly is a skill for any software engineer and has to be developed. The position of the not-so-smart and smart questions from StackOverflow emphasizes the impact of clear communication on the quality of assistance received. By principles outlined by Eric Raymond, developers can enhance their ability to seek help effectively, contribute positively to the community, and ultimately accelerate their growth in the ever-evolving field of software development.
 
 **References:**
-- Raymond, E. S. (n.d.). *How to Ask Questions the Smart Way*.
-- gab jeangab jean (n.d.). *Django tutorial project*. Stack Overflow. [Link](https://stackoverflow.com/questions/77883027/django-tutorial-project)
-- MarlonchoskyMarlonchosky (1969, December 22). *Is this angular component implemented in a reactive way?* Stack Overflow. [Link](https://stackoverflow.com/questions/77822864/is-this-angular-component-implemented-in-a-reactive-way)
+
+- Raymond, E. S. (n.d.). _How to Ask Questions the Smart Way_.
+- gab jeangab jean (n.d.). _Django tutorial project_. Stack Overflow. [Link](https://stackoverflow.com/questions/77883027/django-tutorial-project)
+- MarlonchoskyMarlonchosky (1969, December 22). _Is this angular component implemented in a reactive way?_ Stack Overflow. [Link](https://stackoverflow.com/questions/77822864/is-this-angular-component-implemented-in-a-reactive-way)
