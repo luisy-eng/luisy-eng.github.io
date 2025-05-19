@@ -44,7 +44,7 @@ Or the time someone promised to complete a critical part of the project, disappe
 
 Then there are the worst ones—the ones who refuse to communicate at all. You try to pick up your share, but they shut you down with, _"I did it all. Can you just write the report? I hate writing..."_
 
-<img src="img/eng-meme_group_project.png" alt="Group Project Meme" width="400px">
+<img src="..img/eng-meme_group_project.png" alt="Group Project Meme" width="400px">
 
 These skills are difficult to teach in a normal educational setting, but I found an unlikely solution to this problem—partner dance.
 
@@ -94,13 +94,13 @@ To me, this is a huge issue. If I, as a Computer and Electrical Engineer, can't 
 
 Take these two images from one of my presentations:
 
-<img src="img/Project_OriginalTitle.png" alt="Original Title" width="400px">
+<img src="..img/Project_OriginalTitle.png" alt="Original Title" width="400px">
 
 This is the original title from a machine learning paper. If you’re not already deep into the field, it’s intimidating and confusing. It sounds more like a legal document than something meant to educate and inform.
 
 Now compare that to this version:
 
-<img src="img/Project_ModifiedTitle.png" alt="Modified Title" width="400px">
+<img src="..img/Project_ModifiedTitle.png" alt="Modified Title" width="400px">
 
 This longer, yet simplified version captures the same core idea but is immediately more approachable. It uses relatable language and even a bit of humor to make the content more digestible.
 
