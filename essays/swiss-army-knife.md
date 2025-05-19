@@ -80,24 +80,38 @@ I knew a student who was a PhD candidate in Mechanical Engineering. Surprisingly
 
 Eventually, no one wanted to dance with him. It didn’t help that he was stubborn and felt like changing wasn’t necessary. This is a harsh but valuable lesson—if you don’t develop social skills and learn to work well with others, you’ll find yourself isolated, both in dance and in your career. It’s better to learn this lesson in a dance studio than at a job.
 
-Personally, I love using physics and engineering principles when thinking about dance. For example, partner dance in ballroom Latin often simulates an inelastic collision, where two bodies connect and move as one, transferring momentum while maintaining stability. This is a fun way to think about dance and creates great teaching analogies when explaining concepts to engineers.
+Personally dance isnt very far from concepts in engineering, I love using physics and engineering principles when thinking about dance. For example, partner dance in ballroom Latin often simulates an inelastic collision, where two bodies connect and move as one, transferring momentum while maintaining stability. This is a fun way to think about dance and creates great teaching analogies when explaining concepts to engineers.
 
 Ultimately, dance, like engineering, is about problem-solving, real-time adjustments, and continuous improvement. It’s a perfect training ground for anyone looking to become a better communicator and team player.
 
-## Favorite Feature: JavaScript Classes
+## Effective Communication - The Dance Connection
 
-Amidst the features, one feature stands out to me: JavaScript classes. The ability to quickly construct classes, complete with constructors, setters, and getters, simplifies creating and navigating a class-rich environment. It is also refreshing not to worry about memory allocation concerns and rigid structures of my past in C programming.
+One of my most valuable lessons in engineering came from my experiences with technical presentations. I remember one particular research presentation where I had to read the title of a paper and found myself completely lost. I was staring at a string of jargon that felt more like a legal contract than a technical paper.
 
-## Memory and Numeric Interpretation
+To me, this is a huge issue. If I, as a Computer and Electrical Engineer, can't understand the title, how can I expect others to do the same? If the goal is to communicate your ideas, then alienating your audience with convoluted language is a critical failure.
 
-The ease of use in JavaScript made me question memory allocation and numeric interpretation. As I contemplate a scenario involving tremendous integer values, the language's interpretation of IEEE 754 floating-point values raises concern that there is some ambiguity surrounding the allocation of memory for such operations. Applying what I have learned in computer engineering and architecture makes me wonder what workaround Java Script implements when I need 64 bits to represent a whole number since it lacks integer values.
+Take these two images from one of my presentations:
 
-## Athletic Software Engineering
+![Original Title](img/Project_OriginalTitle.png)
 
-It is hard for me to give an opinion on athletic software engineering until I experience it thoroughly and compare my skills after the class. I can probably summarize it as, scary. But that is probably because my grade is dependent on it. I can only speak from the perspective of algorithms and Computer Engineering. For me, most problems I have encountered regarding programming take more time writing on a piece of paper, drawing diagrams, and conversing with other colleagues before I even begin to code. These have been the experiences that have taught me the most about problem-solving in programming, but I am excited to experience something new, although, it's scary.
+This is the original title from a machine learning paper. If you’re not already deep into the field, it’s intimidating and confusing. It sounds more like a legal document than something meant to educate and inform.
 
-## Conclusion
+Now compare that to this version:
 
-My JavaScript experience so far is exciting. Its resemblance to C++ and C and its Swiss Army Knife-like versatility leaves me wondering how many amazing things I can implement. Although navigating through its features, challenges, and trade-offs, I find myself at the crossroads of productivity and complexity, which left me repeating myself during the freecodecamp: "Oh, that's a cool feature!"
+![Modified Title](/img/Project_ModifiedTitle.png)
 
-Used Grammarly for grammatical errors.
+This longer, yet simplified version captures the same core idea but is immediately more approachable. It uses relatable language and even a bit of humor to make the content more digestible.
+
+This was my second slide in the presentation, and it immediately captured the audience's attention. I applied what I learned from dance—the importance of confident, clear language, and the need to make your message accessible to everyone. Instead of trying to sound smart, I focused on making the core ideas understandable.
+
+You would be amazed how many times in the presentations before mine I heard phrases like, _"quantize"_ or _"Anecdotal quantization of Modeling Extractors and Deferrance..."_ I mean, seriously, what does that even mean?
+
+After one such presentation, I asked the presenter what some of these terms meant. They admitted that they didn't fully understand them either—they just pulled them from the paper. This is a huge failure in communication and growth as an engineer. If you can't explain your work to someone outside your field, you don't really understand it yourself.
+
+### **Why This Matters in Engineering**
+
+Communication is not just about talking; it’s about understanding and being understood. It’s about making the complex simple without losing the essence of the message. Just like a dancer learns to read their partner’s body language, an engineer needs to listen to their team’s concerns, read between the lines, and adjust accordingly.
+
+If you can master this skill, you won’t just be a better engineer—you’ll be a better leader, teacher, and teammate. Because at the end of the day, the goal isn't just to create innovative technology, but to share those innovations in a way that makes a meaningful impact.
+
+---
