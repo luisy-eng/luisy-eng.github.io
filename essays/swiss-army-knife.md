@@ -70,7 +70,7 @@ Where does engineering come into play? These are all skills that an engineer abs
 
 These are lessons you can learn through dance. Unlike a public speaking class or a writing-intensive course, where a grade holds the overall value, the implications in dance are more personal. Mess up enough, and your dance partners will simply refuse to work with you.
 
-I once had a student who was a PhD candidate in Mechanical Engineering. Surprisingly, his lack of social skills eventually made it so that all his partners rejected dancing with him after just two months. Some of the issues he struggled with included:
+I knew a student who was a PhD candidate in Mechanical Engineering. Surprisingly, his lack of social skills eventually made it so that all his partners rejected dancing with him after just two months. Some of the issues he struggled with included:
 
 - **Perfectionism:** Expecting his partners to be flawless while refusing to accept his own mistakes.
 - **Micromanagement:** Constantly correcting his partners, often without considering their comfort or confidence.
