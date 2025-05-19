@@ -92,13 +92,13 @@ To me, this is a huge issue. If I, as a Computer and Electrical Engineer, can't 
 
 Take these two images from one of my presentations:
 
-![Original Title](img/Project_OriginalTitle.png)
+<img src="img/Project_OriginalTitle.png" alt="Original Title" width="400px">
 
 This is the original title from a machine learning paper. If you’re not already deep into the field, it’s intimidating and confusing. It sounds more like a legal document than something meant to educate and inform.
 
 Now compare that to this version:
 
-![Modified Title](/img/Project_ModifiedTitle.png)
+<img src="img/Project_ModifiedTitle.png" alt="Modified Title" width="400px">
 
 This longer, yet simplified version captures the same core idea but is immediately more approachable. It uses relatable language and even a bit of humor to make the content more digestible.
 
