@@ -44,6 +44,8 @@ Or the time someone promised to complete a critical part of the project, disappe
 
 Then there are the worst ones—the ones who refuse to communicate at all. You try to pick up your share, but they shut you down with, _"I did it all. Can you just write the report? I hate writing..."_
 
+<img src="img/eng-meme_group_project.png" alt="Group Project Meme" width="400px">
+
 These skills are difficult to teach in a normal educational setting, but I found an unlikely solution to this problem—partner dance.
 
 ## Why Partner Dance?
