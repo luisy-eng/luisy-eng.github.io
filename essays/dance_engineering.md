@@ -44,7 +44,10 @@ Or the time someone promised to complete a critical part of the project, disappe
 
 Then there are the worst ones—the ones who refuse to communicate at all. You try to pick up your share, but they shut you down with, _"I did it all. Can you just write the report? I hate writing..."_
 
-<img src="../img/eng-meme_group_project.png" alt="Group Project Meme" width="500px">
+<div style="text-align: center;">
+    <img src="../img/group_project_meme.png" alt="Group Project Meme" width="500px">
+    <p style="font-size: 12px;">Image credit: <a href="https://tutorial45.com/engineering-memes/" target="_blank">Tutorial45</a></p>
+</div>
 
 These skills are difficult to teach in a normal educational setting, but I found an unlikely solution to this problem—partner dance.
 
