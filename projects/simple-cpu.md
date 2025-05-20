@@ -54,6 +54,7 @@ There are several key components to the **Program Counter Logic**, which are exp
   - If the **reset** signal is high, the PC is reset to **0**, restarting the program from the beginning.
 
 - **Branch Handling:**
+
   - The PC can be updated based on branch instructions, including **B** (Unconditional Branch) and **CBZ** (Compare and Branch if Zero). This allows the CPU to change the execution flow based on the results of prior instructions.
 
 This foundational logic sets the stage for more complex control flow in later stages, including support for subroutine calls and conditional branching.
