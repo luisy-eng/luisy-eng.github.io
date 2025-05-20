@@ -4,13 +4,14 @@ type: project
 image: img/cyber.png
 title: "Abstract Data Type: List"
 date: 2022-01-03
-published: True
+published: False
 labels:
   - C
   - Abstract Data Type
-  - 
+  -
 summary: "A program in C that creates an abstract Data Type: Singly Linked List."
 ---
+
 In this coding project, I delve into abstract data types using C, focusing on linked lists. The project's goal is clear: gain a profound understanding of dynamic memory allocation while ensuring the release of every allocated byte.
 
 The foundation is a crafted `node` struct representing each element in our linked list.
@@ -25,4 +26,4 @@ We traverse the list, print its contents, and ultimately free up the allocated m
 
 <img width="300px" src = "../img/Print-free.png" class="img-thumbnail" img>
 
-This project serves as a practical exploration of linked lists and a robust exercise in memory management within the confines of C. 
+This project serves as a practical exploration of linked lists and a robust exercise in memory management within the confines of C.

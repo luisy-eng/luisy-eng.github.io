@@ -4,7 +4,7 @@ type: project
 image: img/tiger-512.png
 title: "Automatic Strategy Inference for Games"
 date: 2023-11-30
-published: true
+published: False
 labels:
   - Neural Networks
   - Machine Learning
@@ -23,18 +23,22 @@ The primary objective of this project is to create intelligent gameplay agents t
 ## Methodology
 
 1. **Data Collection and Preprocessing:**
+
    - Gather a diverse dataset of Tigers and Goats gameplay scenarios, including various strategies employed by human players.
    - Preprocess the data to extract meaningful features, ensuring the model captures the nuanced aspects of the game.
 
 2. **Machine Learning Models:**
+
    - Implement neural network architectures to facilitate learning and decision-making processes.
    - Utilize Large Language Models to enhance the system's understanding of natural language instructions and interactions related to the game.
 
 3. **Training Process:**
+
    - Employ reinforcement learning techniques to train the system by exposing it to the collected dataset.
    - Iteratively refine the model through feedback mechanisms, emphasizing adaptive learning.
 
 4. **Python and TensorFlow Integration:**
+
    - Develop the system using Python as the core programming language, capitalizing on its versatility and extensive machine-learning libraries.
    - Leverage TensorFlow for building, training, and deploying neural networks, ensuring efficiency and scalability.
 
@@ -45,6 +49,7 @@ The primary objective of this project is to create intelligent gameplay agents t
 ## Significance
 
 The successful implementation of an autonomous gameplay agent for Tigers and Goats holds significance in multiple domains:
+
 - **Artificial Intelligence in Gaming:** Showcase the prowess of machine learning in mastering complex strategy games.
 - **Reinforcement Learning:** Contribute to developing reinforcement learning algorithms by applying them to a real-world gaming scenario.
 - **Practical AI Applications:** Explore the potential of autonomous agents for strategic decision-making in various contexts beyond gaming.
