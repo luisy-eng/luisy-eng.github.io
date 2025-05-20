@@ -81,6 +81,7 @@ This section of the Verilog code implements the **Instruction Decode (ID) / Regi
   - This approach simplifies instruction encoding and reduces the risk of programming errors.
 
 - **16-Entry Register File:**
+
   - The CPU uses a 16-entry register file for temporary data storage and retrieval.
   - The register file outputs two values, **readData1** and **readData2**, based on the instruction fields.
 
@@ -121,6 +122,7 @@ This part of the execute stage handles two critical components: the **MUX** for 
   - Handles a wide range of arithmetic and logical operations, including **ADD**, **SUB**, **OR**, **AND**, and **PASS**.
 
 - **Zero Detection:**
+
   - Sets the **Zero** flag if the ALU result is zero, enabling conditional branching.
 
 Together, these components form the core of the EX stage, ensuring that the CPU can efficiently execute a wide range of instructions with minimal delay.
@@ -148,6 +150,7 @@ This section of the code implements the **Memory (MEM)** stage of the pipelined 
   - Supports both register-based and immediate-based addressing for flexible data access.
 
 - **Pipeline Isolation:**
+
   - Keeps control and data signals isolated as they move through the pipeline, reducing timing mismatches and data hazards.
 
 #### **Core Components:**
@@ -161,6 +164,7 @@ This section of the code implements the **Memory (MEM)** stage of the pipelined 
   - The primary storage for program data, supporting both read and write operations.
 
 - **Memory Read and Write Logic:**
+
   - Efficiently manages data movement between the CPU and memory, supporting various instruction types like **LD** (Load) and **ST** (Store).
 
 Together, these components form the backbone of the MEM stage, ensuring efficient data handling and memory access for the pipelined CPU.
@@ -188,6 +192,7 @@ This part of the code implements the **Write Back (WB)** stage of the pipelined 
   - The **mem2reg** signal provides a straightforward way to select between ALU and memory data, reducing the complexity of the control logic.
 
 - **Low Latency:**
+
   - The use of packed structs reduces data propagation delays, improving overall CPU performance and synchronization.
 
 Together, these features ensure that the **WB** stage completes the final step of instruction execution efficiently, supporting a wide range of instruction types while minimizing data hazards.
@@ -215,6 +220,7 @@ This section of the code implements the **Controller** for the CPU, which is res
   - Provides a default case to prevent unintended operations on unrecognized instructions, ensuring the CPU remains stable even with unexpected inputs.
 
 - **Pipeline Integration:**
+
   - Feeds control signals into the **IDEX** pipeline register, ensuring consistent instruction execution across stages and minimizing data hazards.
 
 Together, these features make the controller a critical part of the CPU, allowing it to efficiently decode and execute a wide range of instruction types.
@@ -250,6 +256,7 @@ This CPU supports a range of basic instructions, including arithmetic, logical, 
   - Enable data transfer between the CPU and memory, supporting both load and store operations.
 
 - **Control Flow Operations:**
+
   - **B, CBZ, BL, BR**
   - Provide branching capabilities, including both conditional and unconditional jumps, as well as function calls.
 
@@ -264,6 +271,7 @@ This CPU supports a range of basic instructions, including arithmetic, logical, 
   - Separate instructions for loading and storing data, optimizing data flow within the CPU.
 
 - **Branch Control:**
+
   - Multiple branching options, including absolute and relative jumps, as well as link register support for function calls.
 
 These instructions are the building blocks for implementing more complex algorithms and programs, making this CPU versatile for a wide range of applications and a great learning tool.
