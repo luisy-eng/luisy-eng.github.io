@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Cpu.png
-title: "Pipelined Processor Desing"
+title: "Pipelined Processor Design"
 date: 2023-10-05
 published: True
 labels:
