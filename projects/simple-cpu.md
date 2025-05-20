@@ -25,13 +25,16 @@ summary: "This project implements a Reduced Instruction Set Computer (RISC) CPU 
 This project's goal is to implement and design a 5-stage pipelined CPU in Verilog. The project is divided into three stages, each building on the previous one to add more complex instruction sets and control logic.
 
 **Stage 0:**  
-Lays the foundation by implementing the logic for each pipeline stage, including instruction fetch (IF), instruction decode (ID), execute (EX), memory access (MEM), and write-back (WB). It also includes a basic controller that supports simple instructions like **ADDI** (Add Immediate) and **B** (Unconditional Branch).
+Lays the foundation by implementing the logic for each pipeline stage, including instruction fetch (IF), instruction decode (ID), execute (EX), memory access (MEM), and write-back (WB). It also includes a basic controller that supports simple instructions like **ADDI** (Add Immediate) and **B** (Unconditional Branch).  
+[View Stage 0 on EDA Playground](https://www.edaplayground.com/x/dNZ4)
 
 **Stage 1:**  
-Expands the instruction set to include **ADD** (Add), **SUBI** (Subtract Immediate), and **CBZ** (Compare and Branch if Zero), introducing more complex branching logic and enhanced control signal management.
+Expands the instruction set to include **ADD** (Add), **SUBI** (Subtract Immediate), and **CBZ** (Compare and Branch if Zero), introducing more complex branching logic and enhanced control signal management.  
+[View Stage 1 on EDA Playground](https://www.edaplayground.com/x/aijZ)
 
 **Stage 2:**  
-Further refines the design with support for **BL** (Branch and Link) and **BR** (Branch to Register), adding subroutine capabilities and more flexible control flow.
+Further refines the design with support for **BL** (Branch and Link) and **BR** (Branch to Register), adding subroutine capabilities and more flexible control flow.  
+[View Stage 2 on EDA Playground](https://www.edaplayground.com/x/9cb8)
 
 Each stage includes a testbench for verifying functionality and performance, ensuring the processor can handle a wide range of instruction types while maintaining efficient pipeline flow.
 
