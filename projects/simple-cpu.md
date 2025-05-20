@@ -40,6 +40,24 @@ Each stage includes a testbench for verifying functionality and performance, ens
 
 #### Key Components:
 
+**Program Counter Logic:**
+
+<p align="center">
+    <img width="300px" src="../img/IF.png" class="img-thumbnail">
+</p>
+This section of the code implements the **Program Counter (PC)** logic for the **Instruction Fetch (IF)** stage in the pipelined CPU. The PC is responsible for tracking the address of the next instruction to be fetched from memory. It is updated on each clock cycle and plays a critical role in managing the flow of the program.
+
+There are several key components to the **Program Counter Logic**, which are expanded in later stages of the project. However, in this stage, we focus on two main features:
+
+- **Reset Handling:**
+
+  - If the **reset** signal is high, the PC is reset to **0**, restarting the program from the beginning.
+
+- **Branch Handling:**
+  - The PC can be updated based on branch instructions, including **B** (Unconditional Branch) and **CBZ** (Compare and Branch if Zero). This allows the CPU to change the execution flow based on the results of prior instructions.
+
+This foundational logic sets the stage for more complex control flow in later stages, including support for subroutine calls and conditional branching.
+
 **Register File:**
 
 - Maintains a set of registers (`regFile`) for data storage.
@@ -60,13 +78,6 @@ Each stage includes a testbench for verifying functionality and performance, ens
 - Outputs results to `aluResult` and evaluates a zero condition (`Zero`).
 
 <img width="300px" src = "../img/alu.png" class="img-thumbnail" img>
-
-**Program Counter Logic:**
-
-- Manages the program counter (`pc`) based on control signals.
-- Implements branching and program counter updates according to instruction types.
-
-<img width="300px" src = "../img/pc.png" class="img-thumbnail" img>
 
 **Controller:**
 
