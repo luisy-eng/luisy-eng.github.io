@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Thoughts on Simple CPU Design Project"
+title: "Surviving My First Real CPU Design Project"
 date: 2025-01-17
 published: true
 labels:
