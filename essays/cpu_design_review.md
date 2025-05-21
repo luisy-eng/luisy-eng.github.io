@@ -10,170 +10,269 @@ labels:
   - MIPS
 ---
 
-> _Note:_ This is not a formal report — it’s my personal reflection on a chaotic and memorable CPU design project.
+If I had to tell anyone about an experience during my time in college where I felt like a Computer Engineer, this would have to be it.
 
-If I had to tell anyone about an experience during my time in college where I felt like a Computer Engineer, this would have to be it.  
 Not necessarily because the project itself involved designing and a direct application of what we have learned in class...  
-but... more so the issues, horrors, time spent, and the amount of time involved trying to figure out what exactly we had to do.
+but more so because of the issues, horrors, time spent — and the amount of time involved trying to figure out what exactly we had to do.
 
-Let me give a bit of background so that we can relate a bit.  
-This project started with a 50-page PDF, five different files talking about instructions, a ton of reading that felt completely alien to me.  
-The lab was proctored by a TA, who, mind you, was not a computer or electrical engineer.  
-I remember asking for help and looking at my TA's utterly confused face as they moved on to tell me:
+---
+
+### The Setup
+
+Let me give a bit of background so we can relate a bit.
+
+This project started with a 50-page PDF.  
+Five different files talking about instructions.  
+A ton of reading that felt completely alien to me.
+
+The lab was proctored by a TA — who, mind you, was not a Computer or Electrical Engineer.  
+I remember asking for help and seeing my TA’s utterly confused face as they told me:
 
 > "I have no idea what to do or how to start this..."
 
-Imagine my concerns... This is literally the final project for my Computer Architecture class and the TA has absolutely no idea what is going on.  
-I proceeded to make the best sense out of all the tasks being described. SystemVerilog at this time isn’t something I can say I’m terribly comfortable with either...
+Imagine my concern...  
+This was literally the final project for my Computer Architecture class — and the TA had absolutely no idea what was going on.
 
-I realized a few issues with some of the logic, and also issues with the PDF and tasks.  
-I challenged the TA about these issues and they shrugged and told me to just place the wrong answer.  
-This, to me, isn’t a very engineering mentality — so I decided to ignore that statement.
+---
 
-The first issue I found was in the instructions being asked to implement.  
-We were asked to implement a set of instructions that add... only that there were some weird issues.  
-The PDF was asking to add 1 + 3, which would equal 4...  
-It’s simple, right? Except the PDF said 1 + 3 = 10...
+I tried to make sense of all the tasks being described.  
+SystemVerilog at this time isn’t something I can say I’m terribly comfortable with either...
 
-Okay, if this alone doesn’t say there are some serious issues in the instructions, I don’t know exactly what else does.  
-There were many other issues in the PDF highlighting instructions to this task, so I decided to go to the professor’s office hours and challenge this project.
+Then I started realizing issues — in the logic and in the PDF.  
+I challenged the TA about them, and they just shrugged and told me:
 
-The professor agreed that the material seemed wrong. So they told me to implement what I can and focus on what I can get done.
+> “Just put the wrong answer.”
 
-A lot of my peers decided to make an adder instead of what the instructions said to do, which was a 5-stage processor that can execute specific instructions.  
-The way I took the professor’s words was to basically _make it happen_, and this started the beautiful 3 weeks of amazing lack of sleep, a healthy dose of stress till 4am, and pulling my hair out trying to understand how to make a pipeline.
+This, to me, isn’t a very engineering mentality.  
+So I decided to ignore that advice.
 
-I figured jumping into the task from a blank slate with literally no idea where to start was probably not the best approach...  
-So what did I do? Draw and read!  
-Yes, I needed to genuinely understand what a pipeline was, how things work — and because I like simple things, I chose to draw as I learn it.
+---
 
-<p align="center">
-    <img width="300px" src="../img/PipeLine.png">
-</p>
+### The First Red Flag
 
-I asked myself, "What exactly is a pipeline?"  
-No, not the book definition that uses a bunch of jargon no one really understands. But in human terms...  
-Well to me this came as: a sequence of steps in a guided order, going through stages where the instructions get to each go step-by-step until it reaches the end and executes the operation fully.  
-Where in each section of the stages, there are concurrent working mechanisms.
+We were asked to implement a set of instructions that add...  
+Only — there were some weird issues.
 
-<p align="center">
-    <img width="300px" src="../img/In_Pipe.png">
-</p>
+The PDF said to add `1 + 3`, which should equal `4`...  
+Except it said:
 
-My visual representation of it...  
-I decided to leave the idea of addresses and logic to the side and focus on the actual architecture first.  
-I knew that there is a five-stage process — but is that really it?  
-Can just knowing there are five stages make me a good engineer ready to tackle this project?  
-Absolutely not...
+> `1 + 3 = 10`
 
-I needed to understand how the instructions even come into this pipeline.  
-This is great — well in class we learned about the cache and RAM. But... I have an issue...  
-How do I simulate a cache in EDAPlayground?
+Okay. If this alone doesn’t scream “serious issues in the instructions,” I don’t know what does.
 
-So I realized I can just create a fixed order of instructions in a testbench.  
-In other words, other than testing my code, the testbench can act as my main memory. Great, that’s one problem solved!  
-Now how do I do that? What is part of an instruction?
+There were many other errors in the instructions. So I went to the professor’s office hours to challenge the project directly.
 
-In an instruction we have a few parts, and each instruction has a different format.  
-Okay, this is not so simple like I initially thought.
+They agreed — the material seemed wrong — and told me:
 
-I wrote the three simple instructions:  
-Add  
-Branch  
-Load
+> “Just focus on what you can implement.”
 
-All three have a different format.  
-First thing I decided to start with was the op-code.  
-In simple terms, it’s the value that tells the pipeline what operation the instruction is trying to execute — whether it's to add or load or jump to another instruction.
+---
 
-Next part I needed to identify was the components of `ADD`.  
-This is a register-to-register addition, so I need to reserve bits for the op-code, Register1, Register2 — hence I ended with a 16-bit format.
+### The Real Project Begins
 
-I proceeded with the same mentality for the rest of the instructions.  
-Hence, I actually ended up making a testbench before even working on the pipeline.
+Most of my classmates just made an adder.  
+But the original project was to make a 5-stage processor that could execute specific instructions.
 
-This sort of reminded me of what one of my favorite coding professors mentioned to me:
+So when the professor said “do what you can,” I took it as:  
+**make it happen**.
 
-> "Start with testing!"
+And that kicked off 3 beautiful weeks of:
 
-Sounds weird to think that starting with tests for the program you haven’t made is a practical approach — but in reality, it’s an amazing and helpful mindset.
+- a complete lack of sleep,
+- a healthy dose of stress until 4am,
+- and me pulling my hair out trying to understand how to make a pipeline.
 
-Tests are like cornerstones to the project.  
-As a programmer, we know what certain parts of the program should execute and how it should perform.  
-By making a test based on these ideas, we can ensure that as we program, we are aligning to the proper outputs and executions.
+---
+
+I figured jumping in from a blank slate with zero direction probably wasn’t the best idea...  
+So what did I do?
+
+I drew. I read. I learned.  
+Because I like simple things, I chose to draw as I learned them.
 
 <p align="center">
-    <img width="300px" src="../img/Spec_Ex.png">
+  <img width="300px" src="../img/PipeLine.png">
 </p>
 
-After all the formatting, I realized that a proper pipeline has ways to handle data hazards — such as read-after-write — and it also needs a way to handle branch jumps.
+---
 
-In class, the simplest way we learned to handle these is by introducing bubbles or `NOP`s.  
-This creates a bubble in the pipeline for instructions in case the operation needs to be executed first before the next instruction enters certain sections of the pipeline.
+### What Even _Is_ a Pipeline?
 
-The `ADD` instruction just so happens to be one of those instructions — as well as `Branch Jump`.
+I asked myself:
 
-Last thing we want is for the branch to be in the pipeline and another instruction is a stage behind it.  
-That means we jump, but the instruction behind it still executes.
+> “What exactly is a pipeline?”
 
-Hence, I realized I needed a way to tell if a branch instruction was fetched.  
-Taking care of this early actually helped a lot in setting up the rest of my project.
+No, not the book definition filled with jargon no one really understands.  
+But in human terms.
+
+To me:  
+A pipeline is a sequence of steps in a guided order — going through stages, where instructions get to move forward, step by step, until they reach the end and fully execute.  
+Each section of the pipeline is working _concurrently_.
 
 <p align="center">
-    <img width="300px" src="../img/Brach.png">
+  <img width="300px" src="../img/In_Pipe.png">
 </p>
 
-Since I decided to handle branch early in the project, I simply expanded on this for the other categories of branch — whether it was `Compare and Branch if Zero (CBZ)` or `Branch Link`.
+---
 
-The background to expand and take care of any branch instruction was implemented early, making expanding to other types pretty easy.
+I decided to ignore addresses and logic for a moment and just focus on the architecture.
 
-Okay... I say easy — but let me be honest.  
+I knew there were five stages — but is that really it?  
+Can knowing there are five stages make me a good engineer ready to tackle this?
+
+Absolutely not.
+
+---
+
+### Feeding Instructions
+
+I needed to understand how instructions _even enter_ the pipeline.
+
+In class, we learned about cache and RAM.  
+But here’s my issue — how do I simulate a cache in EDAPlayground?
+
+Then I realized something:  
+I could create a fixed order of instructions in a testbench.  
+Basically, the testbench could act as my main memory.
+
+Awesome — one problem solved.
+
+Now... how do I do that?
+
+---
+
+### What Is an Instruction?
+
+Instructions have different parts.  
+Each instruction has a different format.  
+Okay, this is not as simple as I thought.
+
+I picked three basic ones:
+
+- `ADD`
+- `BRANCH`
+- `LOAD`
+
+Each one has a unique layout.  
+First thing I tackled was the **opcode** — the value that tells the pipeline what the instruction is trying to do.
+
+Is it an add?  
+A load?  
+A jump?
+
+For `ADD`, which is a register-to-register operation, I needed to reserve bits for the opcode, Register1, Register2 — so I ended up using a 16-bit format.
+
+I followed the same process for the other instructions.
+
+---
+
+Funny thing: I ended up building my testbench _before_ the pipeline.  
+Which reminded me of what one of my favorite professors once said:
+
+> “Start with testing!”
+
+Sounds weird — writing tests for a program you haven’t even made.  
+But honestly, it’s a super helpful mindset.
+
+Tests are the cornerstones.  
+As programmers, we know what outputs we expect.  
+If we test for those ideas early, we can align the rest of the code to them.
+
+<p align="center">
+  <img width="300px" src="../img/Spec_Ex.png">
+</p>
+
+---
+
+### Hazards, Bubbles, and `NOP`s
+
+After I finalized the formats, I realized something else...  
+A proper pipeline needs to handle hazards — like _read-after-write_.  
+It also needs to handle _branches_.
+
+In class, the easy way to deal with this was to add **bubbles**, or `NOP`s.  
+That gives time for operations to complete before a new one interferes.
+
+`ADD` is one of those risky instructions. So is `BRANCH`.
+
+If a branch instruction is mid-pipeline, and something else is queued right behind it — you could jump somewhere else and still execute the following instruction.  
+That’s bad.
+
+So I knew I had to catch branch instructions early — at fetch.
+
+<p align="center">
+  <img width="300px" src="../img/Brach.png">
+</p>
+
+---
+
+Since I built branch handling early, expanding to things like `CBZ` or `BL` was relatively smooth.
+
+Okay... I say _easy_ — but let’s be honest.  
 It wasn’t.
 
-I had no idea how to program this in SystemVerilog.  
-Never worked with struct packages before — so I did what any good engineering student in my position would do...
+I had never used `struct` or `package` in SystemVerilog.
+
+So I did what any resourceful engineering student does...
 
 > TO YOUTUBE ACADEMY!!!!
 
-Sooo many videos to sort through. But I had a great strategy to know how to pick a good learning video. I was taught this by a fellow engineering student:
+I went through so many videos. But I had a system — something a classmate once told me:
 
-> The best videos are the ones that, when you listen to them, you can’t understand what the person is saying because the foreign accent is so thick...
+> “The best videos are the ones with super thick accents you can’t understand at first.”
 
-Crazy enough, after watching so many of these videos, accents became a trivial issue. lol...
+Turns out that was true. lol.  
+After enough time, the accents became trivial.
 
 <p align="center">
-    <img width="300px" src="../img/Ex_or.png">
+  <img width="300px" src="../img/Ex_or.png">
 </p>
 
-One of my goals was to expand my project to do **out-of-order execution**.  
-Although I wasn’t able to implement this, I feel like it’s a good future expansion to my project.
+---
 
-Although I understood some of the theories behind it, putting it into practice is a completely different challenge.  
-I had to drop this since I was running low on time and my project was due.
+### What I Couldn't Finish
 
-But as crazy of an experience this project was, I managed to create something.  
-It wasn’t perfect, and it wasn’t revolutionary — but it was my own hard-earned work.
+One of my goals was to implement **out-of-order execution**.  
+I couldn’t finish that part — ran out of time. But I still want to add it in the future.
+
+I got the concepts, but building them in practice was another beast entirely.
+
+Still, despite all the chaos, I made something.  
+It wasn’t perfect. It wasn’t revolutionary.  
+But it was my own, hard-earned work.
+
+---
 
 ### The Ending...
 
-Let’s get to the funny part: I turned this in, and my TA actually marked me wrong...  
-Because I didn’t submit the wrong answer — which is what _he_ had in his answer sheet.
+Here’s the kicker.
 
-I couldn’t help but laugh.  
-I mean... this is how letter-grade education often works.
+I turned in my project... and the TA marked me wrong.  
+Why?
 
-I obviously decided to challenge this grade and went to the professor’s office, showed them all my work, how I actually revamped the whole project to get a proper working pipeline.
+Because I didn’t submit the _wrong_ answer — which was what he had on the answer sheet.
 
-The professor was shocked I was marked wrong.
+I laughed.
 
-But we came to find out the TA had never taken that class.  
-Apparently, TAs come from a pool of grads and the school assigns them to a class. In this case, I can’t really blame them.
+This is how letter-grade education works sometimes.  
+I challenged the grade. Went to the professor.  
+Showed them my work. Explained everything I did.
 
-End of story — I got full marks for the project.
+They were shocked.
 
-Although I felt bad for everyone else... they got marked down for turning in the wrong answer. _facepalm_ Oops... Sorry...
+Turns out, the TA had **never even taken** the class.  
+He was randomly assigned by the school — not his fault, really.
 
-All ends well. At the end, the course material got reworked for the next semester, thankfully —  
-and I got to learn a lot more than any other student through this experience.
+I got full marks in the end.
+
+But I did feel bad for the others...  
+They got marked down for submitting the wrong answer. _facepalm_
+
+Oops. Sorry...
+
+The good news?  
+The course got revised the next semester.
+
+And I walked away with more knowledge and experience than I ever expected.
 
 ---
