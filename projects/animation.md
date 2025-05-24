@@ -1,61 +1,55 @@
 ---
 layout: project
 type: project
-image: img/tiger-512.png
-title: "Automatic Strategy Inference for Games"
-date: 2023-11-30
-published: False
+image: img/SandC_aniThumbail.png
+title: "Short Animation"
+date: 2024-05-19
+published: true
 labels:
-  - Neural Networks
-  - Machine Learning
-  - Python
-summary: "Developing a player Neural Network for the game Tigers and Goats using Tensorflow."
+  - Animation
+  - Adobe After Effects
+  - Adobe Illustrator
+summary: "This project showcases a short animation created using Adobe Illustrator for asset design and Adobe After Effects for animation. The final result demonstrates motion design techniques, visual storytelling, and tool proficiency."
 ---
 
-## Intro
+## **Overview**
 
-This project aims to develop advanced algorithms capable of autonomously mastering the intricate strategies of the traditional Tigers and Goats (Bagh-Chal) board game. Leveraging state-of-the-art machine learning techniques, neural networks, and Large Language Models (LLMs), our system will emulate human-like learning by closely observing and analyzing gameplay dynamics. Python, with a focus on TensorFlow, serves as our primary programming language, emphasizing these tools' robust capabilities in machine learning applications.
+This project is a short animated sequence designed and developed using Adobe Illustrator and Adobe After Effects. The goal was to explore motion design principles while creating a clean and engaging visual narrative using After Effects.
 
-## Objective
+---
 
-The primary objective of this project is to create intelligent gameplay agents that can proficiently play Tigers and Goats without human intervention. By harnessing machine learning methodologies, we aim to enable the system to adapt and evolve its strategies over time, enhancing its gameplay performance through learning and experience.
+## **Tools Used**
 
-## Methodology
+- **Adobe Illustrator:** Used to create, design and layer animated assets.
+- **Adobe After Effects:** Used for timeline animation, motion paths, easing, and final compositing.
 
-1. **Data Collection and Preprocessing:**
+---
 
-   - Gather a diverse dataset of Tigers and Goats gameplay scenarios, including various strategies employed by human players.
-   - Preprocess the data to extract meaningful features, ensuring the model captures the nuanced aspects of the game.
+## **Final Video**
 
-2. **Machine Learning Models:**
+<p align="center">
+  <video width="640" height="360" controls>
+    <source src="../assets/Luis - Final Version Project 3.MP4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
-   - Implement neural network architectures to facilitate learning and decision-making processes.
-   - Utilize Large Language Models to enhance the system's understanding of natural language instructions and interactions related to the game.
+---
 
-3. **Training Process:**
+## **Design Process**
 
-   - Employ reinforcement learning techniques to train the system by exposing it to the collected dataset.
-   - Iteratively refine the model through feedback mechanisms, emphasizing adaptive learning.
+1. **Concept & Storyboarding:**  
+   I began by creating a prototype outline of sequence, visuals and movements that would communicate the story.
+   After sketching all the story boards I placed them in Adobe Illustrator for sketching.
 
-4. **Python and TensorFlow Integration:**
+2. **Asset Creation in Illustrator:**  
+   Graphical assets were built as clean, scalable vectors, with layered organization to make them animation-ready.
 
-   - Develop the system using Python as the core programming language, capitalizing on its versatility and extensive machine-learning libraries.
-   - Leverage TensorFlow for building, training, and deploying neural networks, ensuring efficiency and scalability.
+3. **Animation in After Effects:**  
+   Using keyframes, position paths, and easing, I animated the components to create fluid motion while maintaining timing and visual interest.
 
-5. **Evaluation and Fine-Tuning:**
-   - Assess the performance of the trained models through simulations and gameplay scenarios.
-   - Fine-tune the algorithms based on the observed outcomes, aiming for continual improvement.
+---
 
-## Significance
+## **Reflection**
 
-The successful implementation of an autonomous gameplay agent for Tigers and Goats holds significance in multiple domains:
-
-- **Artificial Intelligence in Gaming:** Showcase the prowess of machine learning in mastering complex strategy games.
-- **Reinforcement Learning:** Contribute to developing reinforcement learning algorithms by applying them to a real-world gaming scenario.
-- **Practical AI Applications:** Explore the potential of autonomous agents for strategic decision-making in various contexts beyond gaming.
-
-## Conclusion
-
-This project seeks to push the boundaries of artificial intelligence by applying cutting-edge machine-learning techniques to the traditional board game Tigers and Goats. The amalgamation of Python, TensorFlow, and significant language models ensures a comprehensive and innovative approach to creating intelligent gameplay agents. The successful execution of this project promises not only advancements in gaming AI but also valuable insights into the broader applications of machine learning in strategic decision-making scenarios.
-
-Used ChatGPT for Formating and Proof reading.
+This project helped me strengthen my understanding of how to bridge static design and motion graphics. Working across two tools taught me the importance of workflow planning and asset preparation.
