@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/TigerAndGoats_img/TandG_PortalPic.jpg
-title: "Automatic Strategy Inference for Games"
+title: "Automatic Strategy Inference for Games, Weather and Power Forecasting"
 date: 2023-11-30
 published: true
 labels:
