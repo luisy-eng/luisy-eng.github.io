@@ -45,7 +45,7 @@ To expand beyond game environments, we transitioned our methodology to time-seri
 Looking forward, our focus includes developing hybrid models that blend deep learning with classical methods like value iteration and incorporating continual learning to support long-term adaptability in forecasting tasks. This structured methodology lays a solid foundation for deploying RL in both strategic games and high-impact real-world systems like weather and power forecasting.
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="../img/TigerAndGoats_img/Guligutta_methodology_diagram.png" alt="Reinforcement Learning Methodology Diagram" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+  <img src="../img/TigerAndGoats_img/huligutta_methodology_diagram.png" alt="Reinforcement Learning Methodology Diagram" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
   <p style="font-size: 0.9em; color: #666;">Figure: Summary of RL paradigms and lookahead methodology used in Huligutta and forecasting models.</p>
 </div>
 
