@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/TigerAndGoats_img/TandG_PortalPic.jpg
+image: img/TigerAndGoats_img/TandG_PortalPic.png
 title: "Automatic Strategy Inference for Games, Weather and Power Forecasting"
 date: 2025-05-23
 published: true
