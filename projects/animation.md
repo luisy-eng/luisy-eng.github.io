@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/SandC_aniThumbail.png
-title: "Short Animation"
+title: "Short Animation: Wishing for a Sunny Day"
 date: 2024-05-19
 published: true
 labels:
