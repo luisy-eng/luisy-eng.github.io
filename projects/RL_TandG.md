@@ -21,6 +21,7 @@ summary: "Project explores the use of reinforcement learning (RL) for strategic 
   <img src="../img/TigerAndGoats_img/Game.png" alt="In Game view of Tigers and Goats." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="font-size: 0.9em; color: black;">In Game view of Tigers and Goats.</p>
 </div>
+
 Reinforcement learning (RL) is transforming how machines make decisions, driving innovation in everything from game-playing AIs to autonomous vehicles and energy forecasting. To explore its potential, we began with a classic board game, Huligutta (Goats and Tigers)—a simple yet strategically rich environment. Its clear rules and asymmetric gameplay made it an ideal testbed for developing and evaluating RL models in a controlled setting.
 
 After training an agent that achieved a 95% win rate against fixed strategies, we expanded our focus to more complex and unpredictable challenges: forecasting weather patterns and net energy demand. These real-world problems demand models that can adapt to noisy data, changing conditions, and incomplete information—precisely the scenarios where RL can shine. Leveraging the OpenSpiel API, we developed and refined algorithms capable of operating across both structured games and dynamic forecasting tasks. While our models have shown strong results in the game environment, development in the weather and energy domains remains ongoing, with promising progress expected in the coming semesters.
@@ -33,42 +34,56 @@ Beyond winning the game, the project aimed to understand how these models could 
 
 Additionally, the project served as a hands-on application of prior coursework in machine learning, algorithms, and AI. Tools like the OpenSpiel API allowed us to quickly prototype and evaluate various strategies, forming a bridge between theoretical foundations and practical innovation. Ultimately, the objective was not just to succeed in a game setting, but to build a versatile framework capable of impacting real-world systems such as energy distribution and climate prediction.
 
-## Methodology
+## Design Methodology
 
-1. **Data Collection and Preprocessing:**
+This project followed an iterative design process to build a reinforcement learning (RL) system capable of mastering the Huligutta game and extending those techniques to real-world forecasting applications. We began by developing a baseline RL model using value iteration, leveraging its efficiency in solving discrete-state problems. To improve long-term strategy and decision-making, we enhanced the model with multi-step lookahead and softmax-based stochastic policies.
 
-   - Gather a diverse dataset of Tigers and Goats gameplay scenarios, including various strategies employed by human players.
-   - Preprocess the data to extract meaningful features, ensuring the model captures the nuanced aspects of the game.
+Our models were built and tested using the OpenSpiel API, which enabled seamless switching between different RL algorithms (e.g., AlphaZero, MuZero) and provided a fast, modular environment for experimentation. Performance was evaluated through extensive simulation runs and self-play, tracking win rates, convergence behavior, and strategic depth against fixed Tiger strategies.
 
-2. **Machine Learning Models:**
+To expand beyond game environments, we transitioned our methodology to time-series prediction using transformer models. This shift involved integrating real-time data streams, adaptive learning rates, and in-context learning to maintain model stability under dynamic conditions.
 
-   - Implement neural network architectures to facilitate learning and decision-making processes.
-   - Utilize Large Language Models to enhance the system's understanding of natural language instructions and interactions related to the game.
+Looking forward, our focus includes developing hybrid models that blend deep learning with classical methods like value iteration and incorporating continual learning to support long-term adaptability in forecasting tasks. This structured methodology lays a solid foundation for deploying RL in both strategic games and high-impact real-world systems like weather and power forecasting.
 
-3. **Training Process:**
+<div style="text-align: center; margin: 30px 0;">
+  <img src="../img/TigerAndGoats_img/Guligutta_methodology_diagram.png" alt="Reinforcement Learning Methodology Diagram" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+  <p style="font-size: 0.9em; color: #666;">Figure: Summary of RL paradigms and lookahead methodology used in Huligutta and forecasting models.</p>
+</div>
 
-   - Employ reinforcement learning techniques to train the system by exposing it to the collected dataset.
-   - Iteratively refine the model through feedback mechanisms, emphasizing adaptive learning.
+## Significance and Future Work
 
-4. **Python and TensorFlow Integration:**
+While this project began with the strategic board game Huligutta, its broader significance lies in using reinforcement learning (RL) to tackle real-world forecasting challenges. Games provided a controlled environment to refine our models, but the ultimate goal is to apply these strategies to high-impact domains like weather forecasting and energy demand prediction—areas that are dynamic, data-rich, and mission-critical.
 
-   - Develop the system using Python as the core programming language, capitalizing on its versatility and extensive machine-learning libraries.
-   - Leverage TensorFlow for building, training, and deploying neural networks, ensuring efficiency and scalability.
+One promising direction is the use of transformer models for time-series analysis in weather prediction. Transformers have revolutionized natural language processing and are now showing strong potential for capturing long-range patterns in spatial and temporal data. By leveraging in-context learning, these models can adapt to new regions and weather conditions without extensive retraining—an essential feature for forecasting extreme events like hurricanes or wildfires.
 
-5. **Evaluation and Fine-Tuning:**
-   - Assess the performance of the trained models through simulations and gameplay scenarios.
-   - Fine-tune the algorithms based on the observed outcomes, aiming for continual improvement.
+In parallel, we aim to develop RL-based approaches for predicting energy consumption across buildings and campuses. This is particularly relevant for smart grid systems and institutions like the University of Hawaii, which is pursuing a net-zero energy goal by 2035. RL models can respond in real-time to changing usage patterns, unlike static forecasting tools, improving energy efficiency and reducing operational costs.
 
-## Significance
+As we transition to these complex applications, future work will focus on improving model adaptability through continual learning, handling noisy high-dimensional data, and ensuring security through adversarial defense mechanisms. By integrating techniques like experience replay, meta-learning, and gradient-based adaptation, we aim to create models that not only learn but continue learning—robustly, securely, and at scale.
 
-The successful implementation of an autonomous gameplay agent for Tigers and Goats holds significance in multiple domains:
-
-- **Artificial Intelligence in Gaming:** Showcase the prowess of machine learning in mastering complex strategy games.
-- **Reinforcement Learning:** Contribute to developing reinforcement learning algorithms by applying them to a real-world gaming scenario.
-- **Practical AI Applications:** Explore the potential of autonomous agents for strategic decision-making in various contexts beyond gaming.
+Ultimately, this project lays a foundation for broader AI applications that go beyond games, targeting systems that demand real-time intelligence, adaptability, and resilience.
 
 ## Conclusion
 
-This project seeks to push the boundaries of artificial intelligence by applying cutting-edge machine-learning techniques to the traditional board game Tigers and Goats. The amalgamation of Python, TensorFlow, and significant language models ensures a comprehensive and innovative approach to creating intelligent gameplay agents. The successful execution of this project promises not only advancements in gaming AI but also valuable insights into the broader applications of machine learning in strategic decision-making scenarios.
+This project successfully implemented reinforcement learning (RL) strategies for the Huligutta (Goats and Tigers) game, achieving a 95% win rate against fixed Tiger policies. Through value iteration and stochastic policy approaches, we demonstrated the power of RL in discrete, asymmetric environments—laying a strong foundation for applying these techniques beyond the game board.
 
-Used ChatGPT for Formating and Proof reading.
+By leveraging the OpenSpiel API, we were able to rapidly prototype and experiment with different RL algorithms, creating a flexible and scalable framework. This adaptability will be essential as we move toward more advanced models like AlphaZero and MuZero and begin applying RL to non-game domains.
+
+While the focus began with a strategic board game, the long-term vision is much broader: building intelligent systems that can make real-time, context-aware decisions in dynamic environments. These include high-impact areas like adaptive energy management, smart grid optimization, and predictive maintenance for critical infrastructure.
+
+The next phase of this research will explore transformer-based models for weather forecasting, enabling our systems to generalize across regions and adapt to fast-changing environmental conditions through in-context learning. We will also incorporate continual learning strategies to ensure our models remain robust and reliable over time.
+
+In summary, this project marks a promising step toward developing scalable, intelligent RL systems that perform well in both structured simulations and real-world applications. By applying lessons from Huligutta, we aim to push the boundaries of what AI can achieve across disciplines.
+
+[View Source Code on GitHub](https://github.com/nsanthan/tigersandgoats/tree/fall-24)
+
+## View Full Project Report
+
+<iframe 
+  src="../assets/reports/Luis_TandG_report.pdf" 
+  width="100%" 
+  height="600px" 
+  style="border: 1px solid #ccc; border-radius: 8px;">
+</iframe>
+
+<p style="font-size: 0.9em; color: #555;">
+  If the report doesn't load, <a href="../assets/reports/Luis_TandG_report.pdf" target="_blank">click here to open it in a new tab</a>.
+</p>
