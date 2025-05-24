@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/TigerAndGoats_img/TandG_PortalPic.jpg
 title: "Automatic Strategy Inference for Games, Weather and Power Forecasting"
-date: 2023-11-30
+date: 2025-05-23
 published: true
 labels:
   - Reinforcement Learning
