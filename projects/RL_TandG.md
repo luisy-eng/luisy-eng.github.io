@@ -12,7 +12,7 @@ labels:
   - Power Forecasting
   - Automatic Strategy Inference
   - Games
-summary: "Project explores the use of reinforcement learning (RL) for strategic decision-making in both games and forecasting tasks. Using the OpenSpiel API, RL agents were trained to play the Huligutta (Goats and Tigers) board game, against fixed Tiger strategies through value iteration methods. The approach was then extended to real-world problems, including adaptive weather prediction and net energy demand forecasting."
+summary: "Project explores the use of reinforcement learning (RL) for strategic decision-making in both games and forecasting tasks. Using the OpenSpiel API, RL agents were trained to play the Huligutta. The approach was then extended to real-world problems, including adaptive weather prediction and net energy demand forecasting."
 ---
 
 ## Intro
