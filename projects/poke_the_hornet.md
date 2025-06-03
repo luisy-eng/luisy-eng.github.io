@@ -76,9 +76,9 @@ The bullets are slow on purpose. It adds strategy—because Smoke can push his o
 
 #### Extinction Mode
 
-Originally, I designed this mode in case we had issues implementing Smoke's complex movement mechanics. But I saw potential for something more—a late-game bonus mode that zooms in on his completely unhinged state of mind.
+Originally, I designed this mode in case we had issues implementing Smoke's complex movement mechanics. But I saw potential for something more late-game, a bonus mode that zooms in on his completely unhinged state of mind.
 
-In Extinction Mode, Smoke flies and shoots freely. The goal? Annihilate as many hornets as possible before the final cutscene. It’s simpler. It’s faster. But it’s also a character piece. Every three kills, Smoke yells out a new crazy line. It’s not just gameplay—it’s a window into a mind that’s cracked beyond repair and just running on vengeance fumes.
+In Extinction Mode, Smoke flies and shoots freely. The goal? Annihilate as many hornets as possible before the final cutscene. It’s simpler. It’s faster. But it’s also a character piece. Every three kills, Smoke yells out a new crazy line. It’s not just gameplay, it’s a window into a mind that’s cracked beyond repair and just running on vengeance fumes.
 
 #### A Taste of the Madness
 
