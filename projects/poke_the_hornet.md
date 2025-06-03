@@ -40,11 +40,11 @@ As a **Coding Officer** and core developer, I contributed:
 - Visual Studio
 - Git & GitHub
 
-## Project Link
+## Game and Project Link
+
+<iframe height="167" frameborder="0" src="https://itch.io/embed/3505402" width="552"><a href="https://uhmanoagamedev.itch.io/poke-the-hornets-nest">Poke the Hornet&#039;s Nest by UHManoaGameDev</a></iframe>
 
 [Play Poke the Hornet’s Nest on itch.io](https://uhmanoagamedev.itch.io/poke-the-hornets-nest)
-
-<iframe frameborder="0" src="https://itch.io/embed/2586996?linkback=true" width="552" height="167"><a href="https://uhmanoagamedev.itch.io/poke-the-hornets-nest">Play Poke the Hornet's Nest on itch.io</a></iframe>
 
 ---
 
