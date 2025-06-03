@@ -57,9 +57,9 @@ As a **Coding Officer** and core developer, I contributed:
 
 Smoke is a traumatized last survivor of his bee hive. He uses this to fuel his rage with maniacal-like behavior. His new purpose in life is to watch all hornets blow up. His lines as he kills his enemies just scream of crazy.
 
-“You took my leg—I took your damn life.”  
- “You see that? That’s your doom doing jazz hands.”  
- “No therapy. Just thermite.”
+- “You took my leg—I took your damn life.”
+- “You see that? That’s your doom doing jazz hands.”
+- “No therapy. Just thermite.”
 
 Is Smoke a good guy or a bad guy? …Well, neither. He’s just _done_. He doesn’t fight for honor or survival. He fights because it’s the only thing keeping him from falling apart. His therapy is destruction—specifically, watching hornets burn to ash.
 
@@ -82,18 +82,18 @@ In Extinction Mode, Smoke flies and shoots freely. The goal? Annihilate as many 
 
 #### A Taste of the Madness
 
-"You buzz, you burn!",
-"Boom goes the buzzkill!",
-"Sting me once—now you die twice!",
-"Pop goes the pest!",
-"I hope you enjoyed existing.",
-"This ain't revenge. This is ART.",
-"I'm painting the sky with hornet guts!",
-"My therapist quit. I didn't.",
-"Do bees hallucinate? HAHA YES.",
-"I licked a wasp once. Regret nothing.",
-"Fire is the only music I like now.",
-"I saw the queen’s soul leave her thorax.",
+- "You buzz, you burn!"
+- "Boom goes the buzzkill!"
+- "Sting me once—now you die twice!"
+- "Pop goes the pest!"
+- "I hope you enjoyed existing."
+- "This ain't revenge. This is ART."
+- "I'm painting the sky with hornet guts!"
+- "My therapist quit. I didn't."
+- "Do bees hallucinate? HAHA YES."
+- "I licked a wasp once. Regret nothing."
+- "Fire is the only music I like now."
+- "I saw the queen’s soul leave her thorax."
 
 ---
 
