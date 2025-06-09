@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/dual-hydro-wind.png
+image: img/wind_eng.png
 title: "Dual Hydro-Wind Offshore Energy Farm"
 date: 2025-05-10
 published: true
