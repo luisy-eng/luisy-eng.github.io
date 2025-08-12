@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Surviving My First Real CPU Design Project"
 date: 2025-01-17
-published: true
+published: false
 labels:
   - Review
   - Computer Engineering
